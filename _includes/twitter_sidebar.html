@@ -1,0 +1,12 @@
+{% assign navigation = site.data.navigation[include.nav] %}
+<div class="sidebar sticky" style="float: right;">
+<nav class="nav__list">
+  <!--{% if page.sidebar.title %}<h3 class="nav__title" style="padding-left: 0;">{{ page.sidebar.title }}</h3>{% endif %}-->
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">{{ "Toggle Twitter Feed" }}</label>
+  <ul class="nav__items">
+          <a class="twitter-timeline" href="https://twitter.com/MapModern?ref_src=twsrc%5Etfw">Tweets by MapModern</a>
+          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </ul>
+</nav>
+</div>

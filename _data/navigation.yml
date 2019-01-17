@@ -1,0 +1,46 @@
+# main links
+main:
+
+  - title: "About"
+    url: _pages/about/about.html
+  - title: "Team"
+    url: _pages/researchers.html
+  - title: "News"
+    url: _pages/news.html
+  - title: "Activities"
+    url: _pages/activities/activities.html
+  - title: "Publications"
+    url: _pages/publications/publications.html
+  - title: "Projects"
+    url: _pages/projects.html
+  - title: "Join our team"
+    url: _pages/join_us.html
+  - title: "Contact"
+    url: _pages/contact.html
+
+foo:    #navigation sidebar for Team
+  - title: "Researchers"
+    url: _pages/researchers.html
+
+  - title: "PhD Students"
+    url: _pages/phdstudents.html
+
+foo2:   #navigation sidebar for Activities
+        - title: "Upcoming events"
+          url: _pages/activities/activities.html
+        #- title: "Past events"
+        #  url: _pages/past_activities.html
+        - title: International Seminars
+          url: _pages/activities/international_seminars.html
+        - title: Doctoral Seminars
+          url: _pages/activities/doctoral_seminars.html
+        - title: Conferences
+          url: _pages/activities/conferences.html
+
+foo3:   #navigation sidebar for Publications
+        - title: "Books and edited collections"
+          url: _pages/publications/publications.html
+        - title: "Articles"
+          url: _pages/publications/articles.html
+        - title: "Book chapters"
+          url: _pages/publications/chapters.html
