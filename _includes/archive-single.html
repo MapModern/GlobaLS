@@ -31,8 +31,8 @@
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    {% if post.image %} {% assign post-teaser = '/assets/images/{{ post.image }}' %}
-      <img src="{{ post-teaser | relative_url}}" alt="">
+    {% if post.image %}
+      <img src="{{ '/assets/images/' | append: post.image | relative_url }}" alt="">
     {% endif %}
 
     {% if post.read_time %}
