@@ -32,7 +32,7 @@
       {% endif %}
     </h2>
     {% if post.image %}
-      <img src="{{site.url}}/assets/images/{{post.image | relative_url}}" alt="">
+      <img src="{{ '/assets/images/{{ post.image }}' }} | relative_url}}" alt="">
     {% endif %}
 
     {% if post.read_time %}
