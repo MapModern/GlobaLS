@@ -5,7 +5,7 @@
 html {
   /* sticky footer fix */
   position: relative;
-  min-height: 75%;
+  min-height: 100%;
 }
 
 body {
@@ -13,7 +13,7 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.2;
+  line-height: 1.5;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -51,20 +51,20 @@ h4 {
 }
 
 h5 {
-  font-size: $type-size-7;
+  font-size: $type-size-6;
 }
 
 h6 {
-  font-size: $type-size-8;
+  font-size: $type-size-6;
 }
 
 small,
 .small {
-  font-size: $type-size-6;
+  font-size: $type-size-5;
 }
 
 p {
-  margin-bottom: 1.3em;
+   margin-bottom: 1.3em;
 }
 
 u,
@@ -78,6 +78,15 @@ ins {
 
 del a {
   color: inherit;
+}
+
+details {
+   cursor: pointer;
+   font-size: 95%;
+   summary{font-size: 75%;}
+   summary::-webkit-details-marker {
+   color: $light-gray;
+   }
 }
 
 /* reduce orphans and widows when printing */
@@ -167,7 +176,7 @@ figcaption > code,
 td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
-  font-size: $type-size-6;
+  font-size: 0.8em;
   background: $code-background-color;
   border-radius: $border-radius;
 
@@ -188,6 +197,8 @@ hr {
 }
 
 /* lists */
+
+ul {list-style: none;}
 
 ul li,
 ol li {

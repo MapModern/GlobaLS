@@ -1,5 +1,6 @@
 ---
 layout: single
+permalink: /about/
 classes: wide
 #sidebar:
 #        nav: "foo"
@@ -9,7 +10,7 @@ feature_row:
             #alt: "placeholder image 1"
             title: "Global Literary Environments"
             excerpt: "This research focus examines the uses and representations of global environments in literature and film, and uses those under-examined spaces as the keys to examining the contradictions and ambivalences produced by spaces that are defined as international, and therefore paradigmatically “global”."
-            url: "_pages/about/literary_environments.html"
+            url: /about/literary-environments/
             btn_label: "Read More"
             btn_class: "btn--inverse"
             #image_path: /assets/images/unsplash-gallery-image-2-th.jpg
@@ -17,13 +18,13 @@ feature_row:
             #alt: "placeholder image 2"
           - title: "The Global Novel"
             excerpt: "This line of research focuses on the novel from a global perspective. Aiming at a global history of the genre through the study of crucial transnational literary periods and spaces, the goal is to investigate the emergence and transformations of the modern and contemporary novel in its articulations across Europe and the world."
-            url: "_pages/about/global_novel.html"
+            url: /about/global-novel/
             btn_label: "Read More"
             btn_class: "btn--inverse"
           - #image_path: /assets/images/unsplash-gallery-image-3-th.jpg
             title: "Global Translation Flows"
             excerpt: "This line of research builds on cross-border studies and their criticism of a nation-centred research lens and focuses on dealing with circulation, mediations and mediators related to global literary translation flows and their transnational agents and agencies (translators, publishers, literary agents, institutions and book fairs)."
-            url: "_pages/about/translation_flows.html"
+            url: /about/translation-flows/
             btn_label: "Read More"
             btn_class: "btn--inverse"
 ---

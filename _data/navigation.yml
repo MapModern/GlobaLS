@@ -2,45 +2,61 @@
 main:
 
   - title: "About"
-    url: _pages/about/about.html
+    url: /about/
   - title: "Team"
-    url: _pages/researchers.html
+    url: /team/
   - title: "News"
-    url: _pages/news.html
+    url: /news/
   - title: "Activities"
-    url: _pages/activities/activities.html
+    url: /activities/
   - title: "Publications"
-    url: _pages/publications/publications.html
+    url: /publications/
   - title: "Projects"
-    url: _pages/projects.html
-  - title: "Join our team"
-    url: _pages/join_us.html
+    url: /projects/
+  - title: "Join us"
+    url: /join-us/
   - title: "Contact"
-    url: _pages/contact.html
+    url: /contact/
 
 foo:    #navigation sidebar for Team
   - title: "Researchers"
-    url: _pages/researchers.html
+    url: /team/
+    children:
+         -   title: "Marta Puxan Oliva"
+             url: /team/marta-puxan/
+         -   title: "Diana Roig Sanz"
+             url: /team/diana-roig/
+         -   title: "Neus Rotger Cerdà"
+             url: /team/neus-rotger/
+         -   title: "Laura Fólica"
+             url: /team/laura-folica
 
   - title: "PhD Students"
-    url: _pages/phdstudents.html
+    url: /team/phd
+    children:
+         -   title: "Pau Bosch Santos"
+             url: /team/pau-bosch/
+         -   title: "Ana Kvirikashvili"
+             url: /team/ana-kvirikashvili/
+         -   title: "Aina Vidal Pérez"
+             url: /team/aina-vidal/
 
 foo2:   #navigation sidebar for Activities
         - title: "Upcoming events"
-          url: _pages/activities/activities.html
+          url: /activities/
         #- title: "Past events"
-        #  url: _pages/past_activities.html
+        #  url: _pages/past-activities.html
         - title: International Seminars
-          url: _pages/activities/international_seminars.html
+          url: /activities/international-seminars/
         - title: Doctoral Seminars
-          url: _pages/activities/doctoral_seminars.html
+          url: /activities/doctoral-seminars/
         - title: Conferences
-          url: _pages/activities/conferences.html
+          url: /activities/conferences/
 
 foo3:   #navigation sidebar for Publications
         - title: "Books and edited collections"
-          url: _pages/publications/publications.html
-        - title: "Articles"
-          url: _pages/publications/articles.html
+          url: /publications/
         - title: "Book chapters"
-          url: _pages/publications/chapters.html
+          url: /publications/chapters/
+        - title: "Articles"
+          url: /publications/articles/

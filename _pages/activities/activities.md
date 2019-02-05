@@ -1,6 +1,7 @@
 ---
 layout: single
-title: Next events
+title: Upcoming events
+permalink: /activities/
 sidebar:
         nav: foo2
 ---

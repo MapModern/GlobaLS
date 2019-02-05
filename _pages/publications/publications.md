@@ -1,24 +1,31 @@
 ---
 layout: single
 title: Books and Edited Collections
+permalink: /publications/
+classes: wide
+entries_layout: grid
 sidebar:
         nav: foo3
 ---
 
-<table>
-        <tr>
-                <td> <img src="/assets/images/JoGH.jpg" alt="Journal of Global History" style="width:150px">
-                </td>
-                <td> <em> Special Issue of the Journal of Global History</em>
-                <br>Forthcoming
-                </td>
-        </tr>
-        <tr>
-                <td> <img src="/assets/images/literary_translation.jpg" alt="Literary Translation and Cultural Mediators in ‘Peripheral’ Cultures" style="width:150px">
-                </td>
-                <td> <a href="https://www.palgrave.com/gp/book/9783319781136" style="link.color:black; visited.color:black;"><em> Literary Translation and Cultural Mediators in ‘Peripheral’ Cultures. Customs Officers or Smugglers?</em></a>
-                <br>Diana Roig Sanz and Reine Meylaerts (Eds.)
-                <br>London/New York: Palgrave MacMillan, 2018.
-                </td>
-        </tr>
-</table>
+
+
+{:.grid__item}
+{:.archive__item style="width: 13em; font-size: 0.61em"}  
+![Journal of Global History](/assets/images/JoGH.jpg){:style="width: 12em; height: 15em; object-fit: fill"}  
+[*Special Issue of the Journal of Global History*]  
+<br>Forthcoming
+
+{:.grid__item}
+{:.archive__item style="width: 13em; font-size: 0.61em"}  
+![Narrative Reliability, Racial Conflicts and Ideology in the Modern Novel](/assets/images/narrative-reliability.jpg){:style="width: 12em; height: 15em; object-fit: fill"}  
+[*Narrative Reliability, Racial Conflicts and Ideology in the Modern Novel*](https://www.routledge.com/Narrative-Reliability-Racial-Conflicts-and-Ideology-in-the-Modern-Novel/Puxan-Oliva/p/book/9780367140878)  
+<span style="color:lightslategray">**Marta Puxan Oliva (Ed.)**</span>  
+<br>London/New York: Routledge, 2019.
+
+{:.grid__item}
+{:.archive__item style="width: 13em; font-size: 0.61em"}  
+![Literary Translation and Cultural Mediators in ‘Peripheral’ Cultures](/assets/images/literary-translation.jpg){:style="width: 12em; height: 15em; object-fit: fill"}  
+ [*Literary Translation and Cultural Mediators in ‘Peripheral’ Cultures*](https://www.palgrave.com/gp/book/9783319781136)  
+ <span style="color:lightslategray">**Diana Roig Sanz and Reine Meylaerts (Eds.)**</span>  
+ <br>London/New York: Palgrave MacMillan, 2018.

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Books Chapters
+permalink: /publications/chapters/
 sidebar:
         nav: foo3
 ---

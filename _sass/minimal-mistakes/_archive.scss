@@ -20,7 +20,39 @@
 
 .archive__item {
   position: relative;
+  img {
+        padding: 10px 25px 10px 10px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 12em;
+        @include breakpoint($medium){
+                max-width: 100%
+        }
+  }
+  a, a::before, a:visited, a:hover {
+          text-decoration: none;
+          color: inherit;}
 }
+
+.archive__item-team {
+  position: relative;
+  padding: 0px 5px;
+  width: 160px;
+  @include breakpoint($x-large){
+     width: 170px;
+ }
+  img {
+        padding: 5px;
+        object-fit: fill;
+        float:left;
+        height: 170px;
+  }
+  a, a::before, a:visited, a:hover {
+          text-decoration: none;
+          color: inherit;}
+}
+
 
 .archive__subtitle {
   margin: 1.414em 0 0;
@@ -195,8 +227,13 @@
   .archive__item-title {
     margin-top: 0.5em;
     font-size: $type-size-5;
-  }
+    color: lighten($text-color, 30%);
 
+  }
+  .archive__item-date {
+    color: lighten($text-color, 60%);
+    font-weight: normal;
+    }
   .archive__item-excerpt {
     display: none;
 

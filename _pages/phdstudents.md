@@ -1,23 +1,66 @@
 ---
 layout: single
 title: "PhD Students"
+permalink: /team/phd
 sidebar:
         nav: "foo"
 feature_row:
-  - #image_path: assets/images/marta_puxan.png
+  - image_path: assets/images/portrait-placeholder.png
     alt: "Pau Bosch Santos"
     title: "Pau Bosch Santos"
-    #excerpt: "PhD in Humanities, Pompeu Fabra University (UPF) 2010. Postdoctoral researcher at the Universitat Oberta de Catalunya (UOC)."
-  - #image_path: /assets/images/diana_roig.jpg
+    url: /team/pau-bosch/
+
+  - image_path: /assets/images/ana-kvirikashvili.jpg
     alt: "Ana Kvirikashvili"
     title: "Ana Kvirikashvili"
-    #excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    #url: "#test-link"
-    #btn_label: "Read More"
-    #tn_class: "btn--primary"
-  - #image_path: /assets/images/neus_rotger.jpg
+    url: /team/ana-kvirikashvili/
+
+  - image_path: /assets/images/aina-vidal.jpg
     alt: "Aina Vidal Pérez"   
     title: "Aina Vidal Pérez"
-    #excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: /team/aina-vidal/
 ---
-{% include feature_row %}
+<section class="entries-grid">
+{% if include.id %}
+  {% assign feature_row = page[include.id] %}
+{% else %}
+  {% assign feature_row = page.feature_row %}
+{% endif %}
+
+{% for f in feature_row %}
+
+<div class="grid__item" style="width: 160px">
+
+    {% if f.url contains "://" %}
+      {% capture f_url %}{{ f.url }}{% endcapture %}
+    {% else %}
+      {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
+    {% endif %}
+
+      <div class="archive__item-team">
+       <a href="{{ f_url }}">
+
+       <img src=
+              {% if f.image_path contains "://" %}
+                "{{ f.image_path }}"
+              {% else %}
+                "{{ f.image_path | relative_url }}"
+              {% endif %}
+            alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+
+         <h2 class="archive__item-title" style="clear: both">{{ f.title }}</h2>
+
+     </a>
+
+        {% if f.excerpt %}
+         <div class="archive__item-excerpt">
+         {{ f.excerpt | markdownify }}
+         </div>
+        {% endif %}
+
+
+
+      </div>
+</div>
+{% endfor %}
+</section>

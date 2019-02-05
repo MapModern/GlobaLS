@@ -1,18 +1,19 @@
-<div>
-
-	<div class="flexslider" style="maxwidth:300px">
-		<ul class="slides">
-	  		{% for post in site.posts %}
-        <li>
-          <table>
-            <tr>
-              <td><img src="{{ site.url}}/assets/images/{{ post.image }}"></td>
-              <td><p class="flex-caption">{{ post.excerpt }}</p></td>
-            </tr>
-          </table>
-	       </li>
-	  		{% endfor %}
-		</ul>
-	</div>
-	<!-- <p style="text-align: center"><a href="{{ site.url }}/news.html">See All News</a></p> -->
+<div class="flexslider">
+	<ul class="slides">
+	{% for post in site.posts limit:5  %}
+         <li><a href="{{ site.url }}{{ post.permalink }}">
+		 {% if post.image %}
+		  <table>
+            	     <tr>
+	      		<td style="visibility:collapse"> <img src="{{ site.url}}/assets/images/{{ post.image }}"></td>
+              		<td>{{ post.excerpt }}</td>
+		     </tr>
+      		  </table>
+		{% else %}
+		  <p>{{ post.excerpt }}</p>
+		  {% endif %}
+	   </a>
+	  </li>
+	 {% endfor %}
+	</ul>
 </div>

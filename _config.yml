@@ -12,20 +12,23 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GlobaLS"
+title                    : "Global Literary Studies - GlobaLS | Research Group"
 title_separator          : "-"
 name                     : "GlobaLS"
-description              : "Website of GlobaLS. Global Literary Studies Research Group"
-#url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Website of the Global Literary Studies Research Group (GlobaLS) at the Open University of Catalonia"
+url                      : "/_pages/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : # the subpath of your site, e.g. "/blog"
 #repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 #teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/UOCRI-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo-url                 : "https://research.uoc.edu"
+masthead_title           : "GlobaLS" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-#words_per_minute         : 200
+words_per_minute         : 200
 #comments:
 #  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
 #  disqus:
@@ -39,6 +42,7 @@ description              : "Website of GlobaLS. Global Literary Studies Research
 #    colorscheme          : # "light" (default), "dark"
 #  utterances:
 #    theme                : # "github-light" (default), "github-dark"
+#    issue_term           : # "pathname" (default)
 #staticman:
 #  allowedFields          : # ['name', 'email', 'url', 'message']
 #  branch                 : # "master"
@@ -53,7 +57,7 @@ description              : "Website of GlobaLS. Global Literary Studies Research
 #  generatedFields:
 #    date:
 #      type               : # "date"
-#      options:
+#      options:#
 #        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 #  endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
 #reCaptcha:
@@ -93,7 +97,7 @@ description              : "Website of GlobaLS. Global Literary Studies Research
 #  name                   : # If the user or organization name differs from the site's name
 #  links: # An array of links to social media profiles
 
-## Analytics
+# Analytics
 #analytics:
 #  provider               : false # false (default), "google", "google-universal", "custom"
 #  google:
@@ -101,7 +105,7 @@ description              : "Website of GlobaLS. Global Literary Studies Research
 #    anonymize_ip         : # true, false (default)
 
 
-## Site Author
+# Site Author
 #author:
 #  name             : "Your Name"
 #  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
@@ -120,7 +124,7 @@ description              : "Website of GlobaLS. Global Literary Studies Research
 #      # url: "https://twitter.com/"
 #    - label: "Facebook"
 #      icon: "fab fa-fw fa-facebook-square"
-#      # url: "https://facebook.com/"
+#     # url: "https://facebook.com/"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      # url: "https://github.com/"
@@ -153,34 +157,32 @@ description              : "Website of GlobaLS. Global Literary Studies Research
 
 # Reading Files
 include:
-  - .htaccess
+#  - .htaccess
   - _pages
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
+#  - "*.sublime-project"
+#  - "*.sublime-workspace"
+#  - vendor
+#  - .asset-cache
+#  - .bundle
+#  - .jekyll-assets-cache
   - .sass-cache
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - node_modules
-  - package.json
-  - Rakefile
-  - README
-  - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
-  - _config_old.yml
+#  - Capfile
+#  - CHANGELOG
+#  - config
+#  - Gemfile
+#  - Gruntfile.js
+#  - gulpfile.js
+#  - LICENSE
+#  - log
+#  - node_modules
+#  - package.json
+#  - Rakefile
+#  - README
+#  - tmp
 keep_files:
   - .git
   - .svn
@@ -215,10 +217,10 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:year/:month/:day/:title:output_ext
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: 	Europe/Madrid # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink: /:categories/:title/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
+timezone: Europe/Madrid # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -239,6 +241,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
 
 # Archives
 #  Type
@@ -285,8 +288,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
