@@ -1,7 +1,7 @@
 ---
 title: "New book by Marta Puxan Oliva"
 image: narrative-reliability.jpg
-permalink: /news/new-book-marta-puxan/
+permalink: /news/marta-puxan-new-book/
 #categories: News
 ---
 
