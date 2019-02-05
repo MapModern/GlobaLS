@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: "/team/aina-vidal"
+permalink: "/team/aina-vidal/"
 sidebar:
         nav: "foo"
 team-member_profile: true

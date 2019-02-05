@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: "/team/ana-kvirikashvili"
+permalink: "/team/ana-kvirikashvili/"
 sidebar:
         nav: "foo"
 team-member_profile: true

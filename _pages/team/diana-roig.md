@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: "/team/diana-roig"
+permalink: "/team/diana-roig/"
 sidebar:
         nav: "foo"
 team-member_profile: true

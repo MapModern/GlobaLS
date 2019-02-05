@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: "/team/pau-bosch"
+permalink: "/team/pau-bosch/"
 sidebar:
         nav: "foo"
 team-member_profile: true

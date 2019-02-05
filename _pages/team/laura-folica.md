@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: "/team/laura-folica"
+permalink: "/team/laura-folica/"
 sidebar:
         nav: "foo"
 team-member_profile: true

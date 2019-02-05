@@ -29,7 +29,7 @@ foo:    #navigation sidebar for Team
          -   title: "Neus Rotger Cerdà"
              url: /team/neus-rotger/
          -   title: "Laura Fólica"
-             url: /team/laura-folica
+             url: /team/laura-folica/
 
   - title: "PhD Students"
     url: /team/phd
