@@ -1,7 +1,7 @@
 <div class="flexslider">
 	<ul class="slides">
 	{% for post in site.posts limit:5  %}
-         <li><a href="{{ site.url }}{{ post.permalink }}">
+         <li><a href="{{ post.permalink | relative_url }}">
 		 {% if post.image %}
 		  <table>
             	     <tr>
