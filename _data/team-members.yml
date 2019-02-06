@@ -8,10 +8,10 @@ Marta Puxan Oliva:
       url: "mailto:mpuxano@uoc.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
+      url: "https://research.uoc.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+      url: "https://twitter.com/MapModern"
 
 Diana Roig Sanz:
   name        : "Diana Roig Sanz"
@@ -22,11 +22,11 @@ Diana Roig Sanz:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:dsanzr@uoc.edu"
     - label: "MapModern Project"
-      #icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://mapmodern.wordpress.com"
-    #- label: "Twitter"
-      #icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/extravagantman"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MapModern"
 
 Neus Rotger Cerdà:
   name        : "Neus Rotger Cerdà"
@@ -38,10 +38,10 @@ Neus Rotger Cerdà:
       url: "mailto:nrotgerc@uoc.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
+      url: "https://research.uoc.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+      url: "https://twitter.com/MapModern"
 
 Laura Fólica:
   name        : "Laura Fólica"
@@ -54,7 +54,7 @@ Laura Fólica:
       url: "mailto:lfolica@uoc.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
+      url: "https://research.uoc.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/extravagantman"
@@ -69,10 +69,10 @@ Pau Bosch Santos:
       url: "mailto:pboschsantos@uoc.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
+      url: "https://research.uoc.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+      url: "https://twitter.com/MapModern"
 
 Ana Kvirikashvili:
   name        : "Ana Kvirikashvili"
@@ -84,10 +84,10 @@ Ana Kvirikashvili:
       url: "mailto:akvirikashvili@uoc.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
+      url: "https://research.uoc.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+      url: "https://twitter.com/MapModern"
 
 Aina Vidal Pérez:
   name        : "Aina Vidal Pérez"
@@ -99,10 +99,10 @@ Aina Vidal Pérez:
       url: "mailto:avidalpe@uoc.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
+      url: "https://research.uoc.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+      url: "https://twitter.com/MapModern"
 
 ## Site Author
 #author:
