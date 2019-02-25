@@ -1,7 +1,6 @@
 {% if page.person_profile or layout.person_profile or page.sidebar %}
   <div class="sidebar sticky">
 
-  {% if page.team-member_profile or layout.team-member_profile %}{% include team-member-profile.html %}{% endif %}
   {% if page.person_profile or layout.person_profile %}{% include person-profile.html %}{% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
