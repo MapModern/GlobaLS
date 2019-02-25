@@ -20,7 +20,7 @@ feature_row:
     title: "Aina Vidal Pérez"
     url: /team/aina-vidal/
 
-  - image_path: assets/images/portrait-placeholder.png
+  - image_path: assets/images/elisabet-carbo.jpg
     alt: "Elisabet Carbó Catalan"   
     title: "Elisabet Carbó"
     url: /team/elisabet-carbo/

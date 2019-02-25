@@ -107,7 +107,7 @@ Aina Vidal Pérez:
 Elisabet Carbó Catalan:
   name        : "Elisabet Carbó Catalan"
   #bio         : "..."
-  avatar      : "/assets/images/portrait-placeholder.png"
+  avatar      : "/assets/images/elisabet-carbo.jpg"
   links:
     - label: "ecarboc@uoc.com"
       icon: "fas fa-fw fa-envelope-square"
