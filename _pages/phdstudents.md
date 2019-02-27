@@ -4,6 +4,7 @@ title: "PhD Students"
 permalink: /team/phd
 sidebar:
         nav: "foo"
+classes: wide
 feature_row:
   - image_path: assets/images/portrait-placeholder.png
     alt: "Pau Bosch Santos"
