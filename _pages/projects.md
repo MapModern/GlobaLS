@@ -8,7 +8,7 @@ Members of GlobaLS are involved in the following research projects:
 ### Social Networks of the Past. Mapping Hispanic and Lusophone Literature.
 
 
- ![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 18em; height:auto;"}
+ ![European Research Council](/GlobaLS/assets/images/logo-eu-erc.png){: .align-right style="width: 18em; height:auto;"}
 This project has received funding from the European Research Council (ERC) under the European Union's Horizeon 2020 research and innovation programme.
 
  Team: Diana Roig Sanz (PI), Laura Fólica, Ventsislav Ikoff, Elisabet Carbó Catalan
