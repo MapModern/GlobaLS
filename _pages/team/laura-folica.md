@@ -2,7 +2,7 @@
 layout: single
 permalink: "/team/lead/laura-folica/"
 sidebar:
-        nav: "foo"
+        nav: team
 person_profile: true
 person: Laura Fólica
 ---

@@ -3,7 +3,7 @@ layout: single
 title: Conferences
 permalink: /activities/conferences/
 sidebar:
-        nav: foo2
+        nav: activities
 ---
 ### ["Translation in Periodical Publications"](https://mapmodern.wordpress.com/international_conference/){: target="_blank" rel="noopener noreferrer" style="text-decoration: none"}
 ##### 13-14 September 2018, Universitat Oberta de Catalunya, Barcelona

@@ -2,7 +2,7 @@
 layout: single
 permalink: "/team/lead/marta-puxan/"
 sidebar:
-        nav: "foo"
+        nav: team
 person_profile: true
 person: Marta Puxan Oliva
 ---

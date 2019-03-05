@@ -3,7 +3,7 @@ layout: single
 title: Upcoming events
 permalink: /activities/
 sidebar:
-        nav: foo2
+        nav: activities
 ---
 ## [The Global Novel](https://www.acla.org/global-novel)
 ### Seminar at the American Comparative Literature Association (ACLA) Annual Meeting

@@ -2,7 +2,7 @@
 layout: single
 permalink: "/team/lead/diana-roig/"
 sidebar:
-        nav: "foo"
+        nav: team
 person_profile: true
 person: Diana Roig Sanz
 ---

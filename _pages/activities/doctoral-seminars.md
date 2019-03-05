@@ -3,7 +3,7 @@ layout: single
 title: Doctoral Seminars
 permalink: /activities/doctoral-seminars/
 sidebar:
-        nav: foo2
+        nav: activities
 ---
 
 ### [VI Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2018/11/vi-seminari-de-doctorat-destudis-literaris/)

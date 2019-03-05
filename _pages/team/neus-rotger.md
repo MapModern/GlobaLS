@@ -2,7 +2,7 @@
 layout: single
 permalink: "/team/lead/neus-rotger/"
 sidebar:
-        nav: foo
+        nav: team
 person_profile: true
 person: Neus Rotger
 ---

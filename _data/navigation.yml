@@ -18,7 +18,7 @@ main:
   - title: "Contact"
     url: /contact/
 
-foo:    #navigation sidebar for Team
+team:    #navigation sidebar for Team
   - title: "Researchers"
     url: /team/lead/
     children:
@@ -43,7 +43,7 @@ foo:    #navigation sidebar for Team
          -   title: "Aina Vidal Pérez"
              url: /team/phd/aina-vidal/
 
-foo2:   #navigation sidebar for Activities
+activities:   #navigation sidebar for Activities
         - title: "Upcoming events"
           url: /activities/
         #- title: "Past events"
@@ -55,7 +55,7 @@ foo2:   #navigation sidebar for Activities
         - title: Conferences
           url: /activities/conferences/
 
-foo3:   #navigation sidebar for Publications
+pubs:   #navigation sidebar for Publications
         - title: "Books and edited collections"
           url: /publications/
         - title: "Book chapters"

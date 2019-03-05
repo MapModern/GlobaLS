@@ -2,7 +2,7 @@
 layout: single
 permalink: "/team/phd/aina-vidal/"
 sidebar:
-        nav: "foo"
+        nav: team
 person_profile: true
 person: Aina Vidal Pérez
 ---
