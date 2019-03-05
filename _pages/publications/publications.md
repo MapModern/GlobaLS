@@ -27,7 +27,7 @@ pub-type: books
       {% endif %}
 
       {% if pub.url %}
-         <a href="{{ pub.url }}">
+         <a href="{{ pub.url }}" target="_blank" rel="noopener noreferrer">
          <img src="{{ pub-img }}" style="max-height:13em">
          <p style="font-size: 0.65em"><em>{{ pub.title }}</em></p>
          </a>
