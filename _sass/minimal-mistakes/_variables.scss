@@ -53,7 +53,7 @@ $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
-$background-color: #fff !default;
+$background-color: darken(#fff, 3%); /*#fff !default;*/
 $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
@@ -142,9 +142,9 @@ $x-large: 1280px !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow: 220px !default;
-$right-sidebar-width: 300px !default;
-$right-sidebar-width-wide: 400px !default;
+$right-sidebar-width-narrow: 9em; /*10em; alternatively, 220px !default;*/
+$right-sidebar-width: 10em; /* 13em; alternatively 300px !default;*/
+$right-sidebar-width-wide: 20em; /*400px !default;*/
 
 /*
    Other

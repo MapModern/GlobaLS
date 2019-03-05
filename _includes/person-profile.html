@@ -1,5 +1,5 @@
 {% assign person = page.person | default: page.persons[0] | default: site.person %}
-{% assign person = site.data.team-members[person] | default: person %}
+{% assign person = site.data.team[person] | default: person %}
 
 <div itemscope itemtype="https://schema.org/Person">
 

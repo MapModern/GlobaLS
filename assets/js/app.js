@@ -9,7 +9,8 @@ $(window).on('load', function() {
     //itemWidth: 150,
     //itemHeight: 50,
     //itemMargin: 10,
-    slideshowSpeed: 3500
+    slideshowSpeed: 10000,
+    animationSpeed: 1000
   });
 });
 

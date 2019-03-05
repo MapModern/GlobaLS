@@ -1,23 +1,9 @@
-Marta Puxan Oliva:
-  name        : "Marta Puxan Oliva"
-  bio         : "Postdoctoral researcher (UOC) | Assistant Professor at the Universitat de Barcelona."
-  avatar      : "/assets/images/marta-puxan.png"
-  links:
-    - label: "mpuxano@uoc.edu"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mpuxano@uoc.edu"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://research.uoc.edu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MapModern"
-
 Diana Roig Sanz:
-  name        : "Diana Roig Sanz"
-  bio         : "Ramon y Cajal Research Fellow (UOC) | PI of MapModern | Coordinator of GlobaLS"
-  avatar      : "/assets/images/diana-roig.jpg"
-  links:
+   name        : "Diana Roig Sanz"
+   bio         : "Coordinator of GlobaLS | Ramon y Cajal Research Fellow (UOC) | PI of MapModern"
+   avatar      : "/assets/images/diana-roig.jpg"
+   url         : "/team/diana-sanz/"
+   links:
     - label: "dsanzr@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:dsanzr@uoc.edu"
@@ -28,25 +14,11 @@ Diana Roig Sanz:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/MapModern"
 
-Neus Rotger:
-  name        : "Neus Rotger"
-  bio         : "Associate Professor of Comparative Literature (UOC) | Guest Lecturer at Universitat Autònoma de Barcelona"
-  avatar      : "/assets/images/neus-rotger.jpg"
-  links:
-    - label: "nrotgerc@uoc.edu"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:nrotgerc@uoc.edu"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://research.uoc.edu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MapModern"
-
 Laura Fólica:
   name        : "Laura Fólica"
   bio         : "Postdoctoral researcher (UOC) | Assistant Professor at Universitat Pompeu Fabra (UPF)."
   avatar      : "/assets/images/laura-folica.png"
+  url         : "/team/laura-folica/"
   links:
     - label: "lfolica@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
@@ -58,10 +30,44 @@ Laura Fólica:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/MapModern"
 
+Marta Puxan Oliva:
+   name        : "Marta Puxan Oliva"
+   bio         : "Postdoctoral researcher (UOC) | Assistant Professor at the Universitat de Barcelona."
+   avatar      : "/assets/images/marta-puxan.png"
+   url         : "/team/marta-puxan/"
+   links:
+    - label: "mpuxano@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mpuxano@uoc.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://research.uoc.edu"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MapModern"
+
+Neus Rotger:
+  name        : "Neus Rotger"
+  bio         : "Associate Professor of Comparative Literature (UOC) | Guest Lecturer at Universitat Autònoma de Barcelona"
+  avatar      : "/assets/images/neus-rotger.jpg"
+  url         : "/team/neus-rotger/"
+  links:
+    - label: "nrotgerc@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:nrotgerc@uoc.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://research.uoc.edu"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MapModern"
+
+
 Pau Bosch Santos:
   name        : "Pau Bosch Santos"
   #bio         : "..."
-  avatar      : "/assets/images/portrait-placeholder.png"
+  avatar      : "/assets/images/pau-bosch.jpg"
+  url         : "/team/pau-bosch/"
   links:
     - label: "pboschsantos@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
@@ -77,6 +83,7 @@ Ana Kvirikashvili:
   name        : "Ana Kvirikashvili"
   #bio         : "..."
   avatar      : "/assets/images/ana-kvirikashvili.jpg"
+  url         : "/team/ana-kvirikashvili/"
   links:
     - label: "akvirikashvili@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
@@ -88,14 +95,15 @@ Ana Kvirikashvili:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/MapModern"
 
-Aina Vidal Pérez:
-  name        : "Aina Vidal Pérez"
+Elisabet Carbó Catalan:
+  name        : "Elisabet Carbó Catalan"
   #bio         : "..."
-  avatar      : "/assets/images/aina-vidal.jpg"
+  avatar      : "/assets/images/elisabet-carbo.jpg"
+  url         : "/team/elisabet-carbo/"
   links:
-    - label: "avidalpe@uoc.edu"
+    - label: "ecarboc@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:avidalpe@uoc.edu"
+      url: "mailto:ecarboc@uoc.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://research.uoc.edu"
@@ -103,14 +111,15 @@ Aina Vidal Pérez:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/MapModern"
 
-Elisabet Carbó Catalan:
-  name        : "Elisabet Carbó Catalan"
+Aina Vidal Pérez:
+  name        : "Aina Vidal Pérez"
   #bio         : "..."
-  avatar      : "/assets/images/elisabet-carbo.jpg"
+  avatar      : "/assets/images/aina-vidal.jpg"
+  url         : "/team/aina-vidal/"
   links:
-    - label: "ecarboc@uoc.edu"
+    - label: "avidalpe@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ecarboc@uoc.edu"
+      url: "mailto:avidalpe@uoc.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://research.uoc.edu"

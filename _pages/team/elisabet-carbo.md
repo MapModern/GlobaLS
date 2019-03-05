@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: "/team/elisabet-carbo/"
+permalink: "/team/phd/elisabet-carbo/"
 sidebar:
         nav: "foo"
 person_profile: true
@@ -11,3 +11,5 @@ Elisabet Carbó has a B.A. in Translation and Interpreting and French Philology 
 She is currently a member of the ERC project "Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)", where she is developping a doctoral thesis on the institutionalization of Iberoamerican culture through international mobility.
 
 She worked in the past as a professor of Catalan studies at University of Bologna and as a translator.
+
+{% include latest-news.html %}
