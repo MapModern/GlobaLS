@@ -7,7 +7,8 @@ sidebar:
 ---
 ## Big Translation History: The Use of Data Mining and Big Data Approaches
  
-### [EST Congress Stellenbosch 2019. Living Translation: People, Processes, Products](http://www.est2019.com/)
+### [EST Congress Stellenbosch 2019. Living Translation: People, Processes, Products](http://www.est2019.com/){: target="_blank" rel="noopener noreferrer"}
+
 ##### 9-13 September, Stellenbosch, South Africa
 
 Organised by: **Diana Roig-Sanz** (UOC- Open University of Catalonia); **Ondrej Vimr** (University of Bristol); **Laura Fólica** (UOC-Open University of Catalonia).
