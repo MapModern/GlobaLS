@@ -5,6 +5,13 @@ permalink: /activities/
 sidebar:
         nav: activities
 ---
+## [The Poetics and Politics of the Global Novel](https://www.unav.edu/web/narrative-2019/home)
+### Panel at the International Conference on Narrative. International Society for the Study of Narrative (ISSN).
+
+##### Universidad de Navarra, Pamplona, May 30-June 1, 2019.
+Organised by **Marta Puxan-Oliva** and **Neus Rotger**.
+
+
 ## III Global Literary Studies International Seminar
 
 ##### Tuesday, 4 June 2019, 15:00-17:00. UOC, Building Tibidabo 3, Room -2. 				
@@ -33,10 +40,3 @@ General description: Data mining and big data approaches are changing the ways i
    - **The qualitative and quantitative relationship in the analysis of big translation history**: What possibilities does quantitative analysis open for the study of big translation history and the circulation of literatures and the agents involved in it (translators, publishers, etc.) worldwide? Is it possible to elaborate methods of quantitative analysis of large and heterogeneous corpora so as to overcome the challenges posed by these type of approaches? Is it possible to develop techniques for a qualitative study that put micro-textual analysis (close reading) into play, without neglecting the macrotextual (distant reading)?
 
    - **Case studies in their relationship with big translation history and the world of publishing or the circulation of translations and the agents involved from different times and geographical spaces.**
-
-
-## [The Poetics and Politics of the Global Novel](https://www.unav.edu/web/narrative-2019/home)
-### Panel at the International Conference on Narrative. International Society for the Study of Narrative (ISSN).
-
-##### Universidad de Navarra, Pamplona, May 30-June 1, 2019.
-Organised by **Marta Puxan-Oliva** and **Neus Rotger**.
