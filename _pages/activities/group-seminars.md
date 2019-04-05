@@ -21,14 +21,6 @@ Texts for discussion:
    - Puchner, Martin. “Readers of the World Unite”. AEON, 20 Setembre 2017. <https://aeon.co/essays/world-literature-is-both-a-market-reality-and-a-global-ideal>.
 
 
-##### Tuesday, 4 June 2019, 15:00-17:00. UOC, Building Tibidabo 3, Room -2. 				
-
-*Shakespeare, Conrad, and the Global Intertext*  
-**Brian Richardson** (University of Maryland)
-
-Texts for discussion:
-- Brian Richardson, "The Trope of the Book in the Jungle: Colonial and Postcolonial Responses." The Conradian, 36.1 (2011): 1-13.
-
 ## II International Global Literary Studies Seminar
 
 ##### 11 December 2018
