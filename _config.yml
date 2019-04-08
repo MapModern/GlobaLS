@@ -232,7 +232,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-archives
-  - jekyll-target-blank
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -242,7 +241,6 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-target-blank
 
 
 # Archives
