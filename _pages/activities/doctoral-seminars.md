@@ -6,7 +6,7 @@ sidebar:
         nav: activities
 ---
 
-### [VII Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2019/03/vii-seminari-de-doctorat-destudis-literaris/){: target="_blank" rel="noopener noreferrer" }
+### [VII Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2019/03/vii-seminari-de-doctorat-destudis-literaris/)
 ##### Friday, 29 March 2019, 11:30-13:30
 
 *The Library of Disaster: The Market of Memory Literature and Its Agents in English, French and Spanish from 1990 to the Present Seen through Prizes*  
