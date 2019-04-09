@@ -4,6 +4,11 @@ title: Upcoming events
 permalink: /activities/
 sidebar:
         nav: activities
+photos:
+   -  file: portrait-placeholder.png # file name
+      position: left # left, center, or right (default)
+      size: small # small, medium (default), or large
+      caption: # Any text
 ---
 ## [The Poetics and Politics of the Global Novel](https://www.unav.edu/web/narrative-2019/home)
 ### Panel at the International Conference on Narrative. International Society for the Study of Narrative (ISSN).
@@ -13,7 +18,7 @@ Organised by **Marta Puxan-Oliva** and **Neus Rotger**.
 
 
 ## III Global Literary Studies International Seminar
-
+{% include photo %}
 ##### Tuesday, 4 June 2019, 15:00-17:00. UOC, Building Tibidabo 3, Room -2. 				
 
 *Shakespeare, Conrad, and the Global Intertext*  
@@ -33,7 +38,7 @@ Organised by: **Diana Roig-Sanz** (UOC-Open University of Catalonia); **Ondrej V
 
 General description: Data mining and big data approaches are changing the ways in which we create knowledge, access information and preserve our cultural heritage. At the intersection of the Humanities and Computational Technologies, this panel aims to advance in a still new and very innovative research path in translation studies (the study of translation history in a big data age) and explore both theoretical and methodological questions as well as case studies dealing with big translation history. In that respect, the convenors of this panel define big translation history as a translation history that can be analyzed computationally within a big amount of data and propose to address the following approaches and subtopics:
 
-   - **Methodologies for the analysis of translation history at a large scale**: Is it possible to formulate a specific methodology for the study of foreign literatures and translations within a transnational and big data aproach? Can we contribute with new tools and a defined theoretical and methodological framework to the study of big translation history?
+   - **Methodologies for the analysis of translation history at a large scale**: Is it possible to formulate a specific methodology for the study of foreign literatures and translations within a transnational and big data approach? Can we contribute with new tools and a defined theoretical and methodological framework to the study of big translation history?
 
    - **Methodological challenges for the collection, analysis and visualization of data and metadata** on and from a significant number of scattered translations in a vast corpus of books or periodicals.
 
