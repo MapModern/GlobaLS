@@ -5,10 +5,10 @@ permalink: /activities/
 sidebar:
         nav: activities
 photos:
-   -  file: portrait-placeholder.png # file name
-      position: left # left, center, or right (default)
-      size: small # small, medium (default), or large
-      caption: Random caption test # Any text
+   -  file: # file name
+      position: # left, center, or right (default)
+      size: # small, medium (default), or large
+      caption: # Any text
 ---
 ## [The Poetics and Politics of the Global Novel](https://www.unav.edu/web/narrative-2019/home)
 ### Panel at the International Conference on Narrative. International Society for the Study of Narrative (ISSN).
@@ -18,7 +18,7 @@ Organised by **Marta Puxan-Oliva** and **Neus Rotger**.
 
 
 ## III Global Literary Studies International Seminar
-{% include photo %}
+
 ##### Tuesday, 4 June 2019, 15:00-17:00. UOC, Building Tibidabo 3, Room -2. 				
 
 *Shakespeare, Conrad, and the Global Intertext*  
