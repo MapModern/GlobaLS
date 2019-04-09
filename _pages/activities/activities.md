@@ -8,7 +8,7 @@ photos:
    -  file: portrait-placeholder.png # file name
       position: left # left, center, or right (default)
       size: small # small, medium (default), or large
-      caption: # Any text
+      caption: Random caption test # Any text
 ---
 ## [The Poetics and Politics of the Global Novel](https://www.unav.edu/web/narrative-2019/home)
 ### Panel at the International Conference on Narrative. International Society for the Study of Narrative (ISSN).
