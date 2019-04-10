@@ -10,7 +10,7 @@ The project studies key cultural transformation processes distinctive of modern 
 The position will focus on the role of Iberoamerican cultural mediators in new forms of mass media. It will explore the impact of Iberoamerican mediators on the international rise of cinema and radio through their reviews in the press, the organization of film societies, their participation in cinematographic international conferences, or in radio broadcasts.
 
 
-[Read the complete call (pdf).](/assets/docs/call-phD_cinema_and_radio_eng.pdf){: .btn .btn--inverse target="_blank" rel="noopener noreferrer"}
+[Read the complete call (pdf).](/assets/docs/call-phd_cinema_and_radio_eng.pdf){: .btn .btn--inverse target="_blank" rel="noopener noreferrer"}
 
 Contact person: [Diana Roig Sanz](/team/researchers/diana-roig/) (dsanzr@uoc.edu)  
 Application deadline: **10 May 2019**
