@@ -2,7 +2,7 @@
 title: Open calls
 layout: single
 permalink: /join-us/
-pdf: call-PhD_cinema_and_radio_eng.pdf
+pdf: call-phD_cinema_and_radio_eng.pdf
 ---
 
 ### 4-year fully funded PhD fellowship: The role of Iberoamerican cultural mediators in new forms of mass media.
