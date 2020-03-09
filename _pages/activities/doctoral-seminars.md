@@ -5,20 +5,40 @@ permalink: /activities/doctoral-seminars/
 sidebar:
         nav: activities
 photos:
-   -  file: # file name
-      position: # left, center, or right (default)
-      size: # small, medium (default), or large
-      caption: # Any text
+     -  file:  # file name
+        position:  # left, center, or right (default)
+        size:  # small, medium (default), or large
+        caption: # photo caption  
 ---
+## [IX Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/ix-seminari-de-doctorat-destudis-literaris/)
+##### Thursday, 20 February 2020, 15:30-17:30 (Building Tibidabo 3, Room Hannah Arendt)
+
+*Film-clubs as Social Networks in Ibero-America between 1918 and 1965*  
+Ainamar Clariana (Universitat Oberta de Catalunya)
+
+*Film Criticism in the Hispanic and Lusophone Space (1898-1959)*  
+Pablo Suárez-Mansilla (Universitat Oberta de Catalunya)  
+
+
+## [VIII Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2019/10/28/viii-seminari-de-doctorat-destudis-literaris/)
+##### Friday, 8 November 2019, 11:00-13:00
+
+*El rol de les institucions culturals en el procés d'institucionalització de les literatures hispanoamericanes (1898-1959)*  
+Elisabet Carbó (Universitat Oberta de Catalunya)
+
+*Marià Manent: tradició i traducció*   
+Andrea Montoya (Universitat de Barcelona)
+
 
 ## [VII Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2019/03/vii-seminari-de-doctorat-destudis-literaris/)
 ##### Friday, 29 March 2019, 11:30-13:30
 
 *The Library of Disaster: The Market of Memory Literature and Its Agents in English, French and Spanish from 1990 to the Present Seen through Prizes*  
-**Pau Bosch** (Universitat Oberta de Catalunya)
+Pau Bosch (Universitat Oberta de Catalunya)
 
-*Imatges i discursos literaris de la Barcelona post-olímpica (1992-2018)*  
-**Arnau Sala** (Universitat Autònoma de Barcelona)
+*Imatges i discursos literaris de la Barcelona post-olímpica (1992-2018)*   
+Arnau Sala (Universitat Autònoma de Barcelona)
+
 
 ## [VI Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2018/11/vi-seminari-de-doctorat-destudis-literaris/)
 ##### 23 November 2018
