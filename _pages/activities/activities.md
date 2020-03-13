@@ -1,3 +1,15 @@
+---
+layout: single
+title: Upcoming events
+permalink: /activities/
+sidebar:
+        nav: activities
+photos:
+   -  file: # file name
+      position: # left, center, or right (default)
+      size: # small, medium (default), or large
+      caption: # photo caption  
+---
 ## Future States | Online conference
 
 ##### Online, March 23 - April 5, 2020
@@ -12,18 +24,6 @@ Between the local and the international: The role of literary translation in Rev
 
 Future States, a nearly carbon-neutral conference (NCNC) hosted by the Centre for Design History, University of Brighton, is now open for registration. The conference explores the constructive tensions between modernity and nationalism in popular magazines across the globe, in the late nineteenth and early twentieth century. Running from 23 March – 5 April 2020, this is a landmark event in magazine studies, with talks by 35 leading scholars from 15 countries, and multiple Q&As and discussion forums. But there are no air tickets, hotel bookings, or conference packs – and no registration fee. Attendance at Future States is free, and open to all.
 
----
-layout: single
-title: Upcoming events
-permalink: /activities/
-sidebar:
-        nav: activities
-photos:
-   -  file: # file name
-      position: # left, center, or right (default)
-      size: # small, medium (default), or large
-      caption: # photo caption  
----
 ## *Between success and failure – Cultural mediators of regionalist movements (1880-1930)*
 ### Maud Gonne (Université de Namur / Université catholique de Louvain)
 ##### Wednesday, 11 March 2020, 16:00 - 18:00. UOC | Building Tibidabo 3 | Sala Hannah Arendt | Avinguda Tibidabo, 47 | Barcelona
