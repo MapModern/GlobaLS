@@ -7,7 +7,7 @@
 ##Future States: Modernity and National Identity in Popular Magazines, 1890-1945
 A nearly carbon-neutral conference (NCNC)
 
-##[enlace en línea](https://arthist.net/archive/22597)
+##[https://arthist.net/archive/22597](https://arthist.net/archive/22597)
 
 *Between the local and the international: The role of literary translation in Revista Nosotros (1907-1943)* **Laura Fólica** (UOC-Open University of Catalonia).
 
