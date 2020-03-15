@@ -10,6 +10,18 @@ photos:
       size: # small, medium (default), or large
       caption: # photo caption  
 ---
+##Congrès Médias 19-Numapresse 
+
+#####Paris, 8-11 juin 2020 : LE CONGRÈS EST REPORTÉ (INFOS À VENIR)
+
+### Avec la participation de Laura Fólica
+
+## [Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique] (http://www.medias19.org/index.php?id=24370)
+---
+Après un premier congrès en juin 2015, Médias 19 et Numapresse organisent une deuxième grande manifestation qui se tiendra à Paris, du 8 au 11 juin 2020, pour faire état de la recherche actuelle sur la presse, à l’heure de la numérisation des corpus.
+
+Le projet scientifique franco-québécois Médias 19, articulé autour de la plateforme numérique [www.medias19.org], a été le cadre de développement d’une réflexion, depuis 2011, sur les pratiques journalistiques au XIXe siècle, sur la valorisation et l’analyse des corpus, ainsi que sur l’étude du développement de la culture médiatique dans l’espace francophone. Depuis 2017, le projet scientifique international Numapresse, financé par l’Agence Nationale pour la Recherche française [www.numapresse.org], ambitionne de proposer une nouvelle histoire culturelle et littéraire de la presse française, du XIXe siècle à nos jours, en mobilisant les grands corpus de presse numérisés et les nouveaux outils de text et data mining.
+
 ## Future States | Online conference
 
 ##### Online, March 23 - April 5, 2020
