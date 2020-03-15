@@ -10,9 +10,9 @@ photos:
       size: # small, medium (default), or large
       caption: # photo caption  
 ---
-##Congrès Médias 19-Numapresse 
+## Congrès Médias 19-Numapresse 
 
-#####Paris, 8-11 juin 2020 : LE CONGRÈS EST REPORTÉ (INFOS À VENIR)
+##### Paris, 8-11 juin 2020 : LE CONGRÈS EST REPORTÉ (INFOS À VENIR)
 
 ### Avec la participation de Laura Fólica
 
