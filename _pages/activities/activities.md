@@ -16,7 +16,7 @@ photos:
 
 ### Avec la participation de Laura Fólica
 
-## [Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique] (http://www.medias19.org/index.php?id=24370)
+## [Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique](http://www.medias19.org/index.php?id=24370)
 ---
 Après un premier congrès en juin 2015, Médias 19 et Numapresse organisent une deuxième grande manifestation qui se tiendra à Paris, du 8 au 11 juin 2020, pour faire état de la recherche actuelle sur la presse, à l’heure de la numérisation des corpus.
 
