@@ -9,7 +9,7 @@ photos:
       position: # left, center, or right (default)
       size: # small, medium (default), or large
       caption: # photo caption  
-
+---
 ## [ISIH 2020 Conference: Change and Exchange](http://isih.history.ox.ac.uk/?page_id=6201)
 
 ##### 27 – 29 May 2020, European University Institute
