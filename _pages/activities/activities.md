@@ -9,7 +9,7 @@ photos:
       position: # left, center, or right (default)
       size: # small, medium (default), or large
       caption: # photo caption  
----
+
 ## 2020 Conference of the International Society for Intellectual History
 
 ##### 27 – 29 May 2020, European University Institute
