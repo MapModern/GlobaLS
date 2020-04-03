@@ -1,6 +1,9 @@
 # main links
 main:
 
+  - title: "MapModern"
+    url: /mapmodern/
+    background: special
   - title: "About"
     url: /about/
   - title: "Team"
@@ -68,3 +71,13 @@ pubs:   #navigation sidebar for Publications
           url: /publications/
         - title: "Journal Articles"
           url: /publications/articles/
+
+mapmodern: #navigation sidebar for the MapModern project
+        - title: "Team"
+          url: /mapmodern/team/
+        - title: "Activities"
+          url: /mapmodern/activities/
+        - title: "Events"
+          url: /mapmodern/events/
+        - title: "Publications"
+          url: /mapmodern/publications/
