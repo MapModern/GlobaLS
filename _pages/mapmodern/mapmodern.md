@@ -24,5 +24,5 @@ Duration: December 2018 - December 2023
 
 
 
-This project is funded by the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme.   Grant agreement No 803860: MapModern - Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity, 1898-1959 ![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 16em; height:auto;"}
+This project is funded by the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme.   Grant agreement No 803860: MapModern - Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity, 1898-1959 ![European Research Council](/GlobaLS/assets/images/logo-eu-erc.png){: .align-right style="width: 16em; height:auto;"}
 {: .notice style="overflow:auto"}
