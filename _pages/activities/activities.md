@@ -13,6 +13,13 @@ photos:
       size: small # small, medium (default), or large
       caption: # Any text
 ---
+## [Workshop: "The Network Society Today: (Revisiting) the Information Age Trilogy"].(https://www.uoc.edu/portal/en/agenda/2020/agenda_002.html)
+##### 10.11 june 2020
+
+With the participation of **Diana Roig Sanz**
+
+Manuel Castells The Information Age Trilogy has been one of the most influential works to understand the societal change in the awake of the digital revolution of the last decades. Yet, more than two decades after the launch of his theory, the network society and the information age have been developing at a faster pace that anyone suspected in terms of: socio-technological and economic transformation (e.g. platform capitalism, sharing economy, robotization, algorithmic driven society, artificial intelligence and IoT, etc.), power geometries, new identities and socio-political contestation (e.g. populism, indignados, gilet jaunes, alt-right, technopolitics, buen vivir, #meetoo, LGBTIQ, black-lives-matters, youth for climate change, etc.) and new geopolitics and geographies of inequality and power (the rise of China as global power, multipolarity, the emergence of the Global South, the uneven impact of environmental crises, etc.). In this regard, as 2021 will mark the 25th anniversary of the publication of the first volume of Manuel Castells’, it is time to revisit the trilogy and explore the relevance of Castells’ pioneering work in the light of the current state of the network society and of the ways to research about it. Thus, our aim is to gather together scholars from a wide range of disciplines – Including Castells himself – to engage with the Trilogy and debate on its contributions, legacies but as well shortcomings and new developments not envisioned at the time of its launch to try to develop a critical perspective on future trajectories of the network society and the information age.
+
 ## [Future States: Modernity and National Identity in Popular Magazines, 1890-1945. A nearly carbon-neutral conference (NCNC)](https://www.futurestates.org/)
 ##### <s>23 March - 05 April</s> 30 March - 17 April 2020 - Online
 
