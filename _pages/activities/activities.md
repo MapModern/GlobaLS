@@ -13,7 +13,8 @@ photos:
       size: small # small, medium (default), or large
       caption: # Any text
 ---
-##[Workshop: "The Network Society Today: (Revisiting) the Information Age Trilogy"].(https://www.uoc.edu/portal/en/agenda/2020/agenda_002.html)
+## [Workshop: "The Network Society Today: (Revisiting) the Information Age Trilogy"](https://www.uoc.edu/portal/en/agenda/2020/agenda_002.html)
+
 ##### 10.11 june 2020
 
 With the participation of **Diana Roig Sanz**
