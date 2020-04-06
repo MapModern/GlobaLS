@@ -12,6 +12,7 @@ team:
    - res: Neus Rotger
    - res: Jorge J. Locane
    - res: Ventsislav Ikoff
+   - res: Lucía Leandro Hernández
 ---
 <section class="entries-grid">
 {% assign team = page.team %}
