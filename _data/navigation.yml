@@ -68,8 +68,6 @@ team:    #navigation sidebar for Team
 activities:   #navigation sidebar for Activities
         - title: "Upcoming events"
           url: /activities/
-        #- title: "Past events"
-        #  url: _pages/past-activities.html
         - title: Group Seminars
           url: /activities/group-seminars/
         - title: Doctoral Seminars
@@ -97,16 +95,9 @@ ercproject: #navigation sidebar for the MapModern project
               url: /ercproject/events/
             - title: Reading Seminars
               url: /ercproject/events/seminars/
-#              children:
-#                - title: "Reading seminars"
-#                - title: "Conferences"
-#                - title: "Meetings with Institutions"
             - title: Meetings with Institutions
               url: /ercproject/events/meetings/
-#              children:
-#                - title: "Reading seminars"
-#                - title: "Conferences"
-#                - title: "Meetings with Institutions"
+
         - title: "Publications"
           url: /ercproject/publications/
           children:
