@@ -1,7 +1,7 @@
 ---
 title: "Researchers"
 layout: single
-permalink: /mapmodern/team/
+permalink: /ercproject/team/
 classes: wide
 sidebar:
         nav: mapmodern
