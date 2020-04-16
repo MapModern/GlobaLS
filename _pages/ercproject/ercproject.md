@@ -1,9 +1,9 @@
 ---
 title: Social Networks of the Past. Mapping Hispanic and Lusophone Literary Modernity, 1898-1959
 layout: single
-permalink: /mapmodern/
+permalink: /ercproject/
 sidebar:
-        nav: "mapmodern"
+        nav: "ercproject"
 ---
 This research applies cutting-edge technology to analyse a neglected aspect of European and non-European social and cultural life of the 20th century: the impact of Hispanic and Lusophone literary networks and cultural mediators in international modernity between 1898 and 1959.   
 The project pursues three central goals:
@@ -24,5 +24,5 @@ Duration: December 2018 - December 2023
 
 
 
-This project is funded by the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme.   Grant agreement No 803860: MapModern - Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity, 1898-1959 ![European Research Council](/GlobaLS/assets/images/logo-eu-erc.png){: .align-right style="width: 16em; height:auto;"}
+This project is funded by the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme.   Grant agreement No 803860: MapModern - Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity, 1898-1959 ![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 16em; height:auto;"}
 {: .notice style="overflow:auto"}

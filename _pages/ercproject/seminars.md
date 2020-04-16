@@ -1,9 +1,9 @@
 ---
 layout: single
-title: Activities of the research team
-permalink: /mapmodern/activities/
+title: Reading Seminars
+permalink: /ercproject/events/seminars/
 sidebar:
-        nav: mapmodern
+        nav: ercproject
 #toc: true
 #toc_label: "Upcoming events"
 #toc_icon: "calendar-alt"
@@ -13,7 +13,7 @@ sidebar:
 #      size: small # small, medium (default), or large
 #      caption: # Any text
 ---
-### 17 de setembre de 2019: Seminari Elisabet Carbó i Pau Bosch. La nostra experiència a l'Institut for World Literature, Harvard University, juliol 2020
+## Translation and Press
 
 ### 27 de setembre de 2019: Seminari ERC amb Patricia Willson (Université de Liège). Tema del seminari: La traducción literaria en las revistas iberoamericanas
 
@@ -28,20 +28,23 @@ Willson, Patricia. 2013. “La traducción y sus discursos. Apuntes sobre la his
 Bionota: Patricia Willson es doctora en letras por la Universidad de Buenos Aires y traductora por el IES en Lenguas Vivas. Es autora de La constelación del Sur. Traductores y traducciones en la literatura argentina del siglo XX (Siglo XXI Editores, 2004, 2017) y de Página impar. Textos sobre la traducción en Argentina: conceptos, historia, figuras (EThos, 2019). Es coeditora de Impliciter/Expliciter. L’intervention du traducteur (Presses universitaires de Liège, 2018) y de Traductores y traducciones en la historia cultural de América Latina (UNAM, 2011). Ha traducido, entre otros autores, a Roland Barthes, Paul Ricœur, Gustave Flaubert, Jean-Paul Sartre, Richard Rorty, Mary Shelley, Mark Twain, H.P. Lovecraft, Jack London. Actualmente enseña en la Universidad de Liège y dirige la Carrera de Especialización en Traducción Literaria de la Facultad de Filosofía y Letras de la Universidad de Buenos Aires. Es miembro fundador de la Asociación Latinoamericana de Estudios de Traducción e Interpretación (ALAETI) y de la Asociación Internacional de Estudios de Traducción e Interculturales (IATIS)." | markdownify }}
 </details>
 
-###	1 d'octubre de 2019: Seminari Aurea Mota (UB): El concepto de Modernidad en Iberoamérica
+## Institutions
 
+## Cinema and Radio
+
+###	31 de març de 2020: Seminari Malte Hagener. Professor a la Universitat de Marburg
 <details>
-<summary>More details</summary>{{
-"Textos en discussió:
+<summary>More detials</summary> {{ "
+Bionota: Malte Hagener is a professor in media studies with a focus on the history, aesthetics and theory of film at Philipps University Marburg. He directs the DFG-funded project media/rep/ - an open access repository in media studies. He is a co-founder of  Necs – European Network for Cinema and Media Studies as well as member of the editorial board of the peer-reviewed OA-journal Necsus – European Journal of Media Studies.
+" }}</details>
 
-Mota Aurea. 2015. “The American Divergence, the Modern Western”. African, American and European Trajectories of Modernity: Past Oppression, Future Justice?. Edited by Peter Wagner. Edinburgh University Press, pp. 21-41.
+## Women
 
-Delanty, Gerard. 2016. “A transnational world?:The implications of transnationalism for comparative historical sociology”. Social Imaginaries, 2 (2). pp. 17-33. ISSN 2393-2503
+## Networks and Digital Humanities
 
-Wagner, Peter. 2016. “World-Sociology: An Outline”. Social Imaginaries 2.2. pp. 87-104."
- | markdownify }}</details>
+###	17 de gener de 2020: Seminari amb Javier Borge i Albert Soler (grup líder de Complex Systems, IN3, UOC i professor dels Estudis d'Informàtica, respectivament).Tema del seminari: Una introducció a l'anàlisi de xarxes (2)
 
-###	1 d'octubre 2019: seminari María Íñigo (UOC). Modernidad y el caso de Brasil.
+###	3 de desembre de 2019: Seminari amb Javier Borge-Holthoefer (grup líder de Complex Systems, IN3, UOC). Tema del Seminari: Una introducció a l'anàlisi de xarxes
 
 ###	7 de novembre 2019: seminari de lectures sobre HD. Modera la discussió: Ventsislav Ikoff
 
@@ -63,6 +66,28 @@ Lansdall-Welfare, T. et al. 2017. ‘Content Analysis of 150 Years of British Pe
 
 Michel, J. B. et al. 2011. ‘Quantitative Analysis of Culture Using Millions of Digitized Books’. Science 331 (6014): 176–182.
 " | markdownify }}</details>
+
+### 2-3 abril 2019: Workshop on databases with 300.000 Km/s
+
+
+### 17 de setembre de 2019: Seminari Elisabet Carbó i Pau Bosch. La nostra experiència a l'Institut for World Literature, Harvard University, juliol 2020
+
+
+
+###	1 d'octubre de 2019: Seminari Aurea Mota (UB): El concepto de Modernidad en Iberoamérica
+
+<details>
+<summary>More details</summary>{{
+"Textos en discussió:
+
+Mota Aurea. 2015. “The American Divergence, the Modern Western”. African, American and European Trajectories of Modernity: Past Oppression, Future Justice?. Edited by Peter Wagner. Edinburgh University Press, pp. 21-41.
+
+Delanty, Gerard. 2016. “A transnational world?:The implications of transnationalism for comparative historical sociology”. Social Imaginaries, 2 (2). pp. 17-33. ISSN 2393-2503
+
+Wagner, Peter. 2016. “World-Sociology: An Outline”. Social Imaginaries 2.2. pp. 87-104."
+ | markdownify }}</details>
+
+###	1 d'octubre 2019: seminari María Íñigo (UOC). Modernidad y el caso de Brasil.
 
 ###	12 de noviembre de 2019: Seminari amb Ciro Llueca (director de la Biblioteca de la UOC). Tema del seminari: Conceptes clau en l'anàlisi de catàlegs de biblioteques i mapa de les biblioteques iberoamericanes i dels EUA
 
@@ -87,15 +112,11 @@ Sánchez Prado, Ignacio M. (ed.). 2018.  Pierre Bourdieu in Hispanic Literature 
 
 ### 19 de noviembre de 2019:  Lluís Agustí. Profesor de la Facultad de Biblioteconomía de la UB.  Tema del seminario: Los catálogos de bibliotecas y la edición en México.
 
-###	3 de desembre de 2019: Seminari amb Javier Borge -Holthoefer (grup líder de Complex Systems, IN3, UOC). Tema del Seminari: Una introducció a l'anàlisi de xarxes
-
 ###	4 de diciembre. Seminari amb Jorge Locane (UOC, investigador postdoc GlobaLS). Tema del seminari: Retos de gestión y organización de un proyecto ERC
 
 ###	5 de diciembre: Seminari amb Lluís Anglada, director del Consorci Universitari de Biblioteques de Catalunya. CSUC. Tema del seminari: Datos y ciencia en abierto.
 
 ###	10 de diciembre: Seminario con Oliver Hochadel y Álvaro Girón, investigadores del CSIC de Barcelona.  Tema del seminario: La transferencia de conocimiento. Redes entre Barcelona y Buenos Aires
-
-###	17 de gener de 2020: Seminari amb Javier Borge i Albert Soler (grup líder de Complex Systems, IN3, UOC i professor dels Estudis d'Informàtica, respectivament).Tema del seminari: Una introducció a l'anàlisi de xarxes (2)
 
 ###	5 de febrer:  Seminari Paula Bruno. Investigadora argentina del CONICET
 <details>
@@ -114,27 +135,3 @@ Latour, Bruno. 2007. Reassembling the Social. An Introduction to Actor-Network-T
 " }}</details>
 
 ###	27 de febrer de 2020: Seminari sobre ANT- Actor Network Theory i la seva aplicació a Nodegoat. Modera: Michael Luchtan (UOC).
-
-###	31 de març de 2020: Seminari Malte Hagener. Professor a la Universitat de Marburg
-<details>
-<summary>More detials</summary> {{ "
-Bionota: Malte Hagener is a professor in media studies with a focus on the history, aesthetics and theory of film at Philipps University Marburg. He directs the DFG-funded project media/rep/ - an open access repository in media studies. He is a co-founder of  Necs – European Network for Cinema and Media Studies as well as member of the editorial board of the peer-reviewed OA-journal Necsus – European Journal of Media Studies.
-" }}</details>
-
-###	18 de setembre de 2019: Reunió Ainamar Clariana Rodagut i Pablo Suárez-Mansilla amb Esteve Riambau, director de la Filmoteca de Catalunya
-
-###	8 d'octubre: Reunió Ainamar Clariana Rodagut amb Fernando Ramos Arenas sobre alguns apropaments teòrics al fenomen cineclubista
-
-###	14 de noviembre de 2019: Reunió Diana Roig Sanz, Ainamar Clariana Rodagut, Pablo Suárez-Mansilla  amb Anna Fors i Iborra, Cap de Documentació, Biblioteca del Cinema
-
-###	25 de noviembre de 2019: Reunió Laura Fólica, Pablo Suárez-Mansilla i Diana Roig Sanz amb Gloria Pérez-Salmerón a la Diputació de Barcelona
-http://gloriaperezsalmeron.org/
-
-###	26 de noviembre de 2019: Reunió Ainamar Clariana Rodagut i Diana Roig Sanz amb Christophe Dupin, Federació Internacional de Filmoteques, Brussel·les
-https://www.fiafnet.org/pages/general/contacts.html
-
-###	21 de gener: Reunió Ainamar Clariana Rodagut i Pablo Suárez-Mansilla amb Mariona Bruzzo i Llaberia, Cap del Centre de Conservació i Restauració de la Filmoteca de Catalunya
-
-###	24 de gener: Reunió Laura Fólica i Diana Roig Sanz amb  Mar Pérez Murillo, Ana Manchado i Fernando de la Fuente a la Biblioteca Nacional de Madrid
-
-###	Dilluns 17 de febrer: Reunió Ainamar Clariana Rodagut amb Juan Manuel Garcia Ferrer, curador de l'exposició sobre cine-clubs a la Filmoteca i part de la Federació Catalana de Cineclubs

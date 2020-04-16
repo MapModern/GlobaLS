@@ -1,9 +1,9 @@
 ---
 layout: single
-title: Event participation of the research team
-permalink: /mapmodern/events/
+#title: Participation in Conferences
+permalink: /ercproject/events/
 sidebar:
-        nav: mapmodern
+        nav: ercproject
 #toc: true
 #toc_label: "Upcoming events"
 #toc_icon: "calendar-alt"
@@ -13,6 +13,21 @@ sidebar:
 #      size: small # small, medium (default), or large
 #      caption: # Any text
 ---
+## Upcoming Conferences
+
+2020 (forth.): ‘Pending title’, Conference ‘International Networks and Mexican Mediators’, UNAM, Mexico D.F., Mexico, 21-22/11.
+
+2020 (forth.): ‘Pending title’, Conference of the European Association for Digital Humanities, Krasnoyarsk, Russia, 22-25/09.
+
+2020 (forth.): ‘Pending title’, IX Congreso Internacional de la Asociación de Hispanistas del Benelux, Antwerpen, Belgium, 17-18/09.
+
+2020 (forth.): ‘Les transferts culturels dans l'espace international: défis
+et nouvelles méthodes’, Liège, Belgium, 2ns-4rth July.
+
+2020 (forth.): Pending title, ‘The Network Society Today (Revisiting) The Information Age Trilogy’, IN3, Barcelona, 10-11/06.
+
+
+## Past Conferences
 **Ainamar Clariana Rodagut**
 
 •	Congress: Audience Lost: Minority Women and Spectatorship. Ghent University (Belgium)
@@ -71,15 +86,6 @@ Diana Roig Sanz
 
 **Diana Roig Sanz**
 
-2020 (forth.): ‘Pending title’, Conference ‘International Networks and Mexican Mediators’, UNAM, Mexico D.F., Mexico, 21-22/11.
-
-2020 (forth.): ‘Pending title’, Conference of the European Association for Digital Humanities, Krasnoyarsk, Russia, 22-25/09.
-
-2020 (forth.): ‘Pending title’, IX Congreso Internacional de la Asociación de Hispanistas del Benelux, Antwerpen, Belgium, 17-18/09.
-
-2020 (forth.): ‘Les transferts culturels dans l'espace international: défis
-et nouvelles méthodes’, Liège, Belgium, 2ns-4rth July.
-2020 (forth.): Pending title, ‘The Network Society Today (Revisiting) The Information Age Trilogy’, IN3, Barcelona, 10-11/06.
 
 2019: ‘Big Translation History. The Circulation of Books (Spain-Latin America 1900-1945)‘, Big Translation History. The Circulation of Books (Spain-Latin America 1900-1945). 9th Congress of the European Society for Translation. Panel: ‘Big Translation History: The Use of Data Mining and Big Data Approaches’. University of Stellenbosch, South Africa. 9-13 September 2019. With the participation of Laura Fólica.
 
