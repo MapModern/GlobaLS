@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 
+title: ""
 permalink: /ercproject/events/
 sidebar:
         nav: ercproject
