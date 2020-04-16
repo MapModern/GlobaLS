@@ -2,21 +2,30 @@
 layout: single
 title: Meetings with Institutions
 permalink: /ercproject/events/meetings/
+classes: wide
 sidebar:
         nav: ercproject
 ---
-18 de setembre de 2019 | Reunió Ainamar Clariana Rodagut i Pablo Suárez-Mansilla amb Esteve Riambau, director de la Filmoteca de Catalunya
+February 17, 2020:  
+Meeting of Ainamar Clariana Rodagut with Juan Manuel García Ferrer (Curator of the exhibition on film clubs at the Film Library of Catalonia and part of the Catalan Federation of Cineclubs)
 
-8 d'octubre | Reunió Ainamar Clariana Rodagut amb Fernando Ramos Arenas sobre alguns apropaments teòrics al fenomen cineclubista
+January 24, 2020:  
+Meeting of Laura Fólica and Diana Roig-Sanz with Mar Pérez Murillo, Ana Manchado and Fernando de la Fuente. National Library of Madrid
 
-14 de noviembre de 2019 | Reunió Diana Roig Sanz, Ainamar Clariana Rodagut, Pablo Suárez-Mansilla  amb Anna Fors i Iborra, Cap de Documentació, Biblioteca del Cinema
+January 21, 2020:  
+Meeting of Ainamar Clariana Rodagut and Pablo Suárez-Mansilla with Mariona Bruzzo i Llaberia (Head of the Conservation and Restoration Center of the Film Library of Catalonia)
 
-25 de noviembre de 2019 | Reunió Laura Fólica, Pablo Suárez-Mansilla i Diana Roig Sanz amb Gloria Pérez-Salmerón a la Diputació de Barcelona
+November 26, 2019:  
+Meeting of Ainamar Clariana Rodagut and Diana Roig Sanz with Christophe Dupin, International Federation of Film Libraries, Brussels, Belgium
 
-26 de noviembre de 2019 | Reunió Ainamar Clariana Rodagut i Diana Roig Sanz amb Christophe Dupin, Federació Internacional de Filmoteques, Brussel·les
+November 25, 2019:  
+Meeting of Laura Fólica, Pablo Suárez-Mansilla and Diana Roig-Sanz with Gloria Pérez-Salmerón. Barcelona Provincial Council, Catalonia
 
-21 de gener de 2020 | Reunió Ainamar Clariana Rodagut i Pablo Suárez-Mansilla amb Mariona Bruzzo i Llaberia, Cap del Centre de Conservació i Restauració de la Filmoteca de Catalunya
+November 14, 2019:  
+Meeting of Diana Roig Sanz, Ainamar Clariana Rodagut, Pablo Suárez-Mansilla with Anna Fors i Iborra (Head of Documentation, Cinema Library of Film Library of Catalonia)
 
-24 de gener de 2020 | Reunió Laura Fólica i Diana Roig Sanz amb  Mar Pérez Murillo, Ana Manchado i Fernando de la Fuente a la Biblioteca Nacional de Madrid
+October 8:  
+Meeting of Ainamar Clariana Rodagut with Fernando Ramos Arenas about some theoretical approaches to the Cineclub phenomenon
 
-17 de febrer de 2020 | Reunió Ainamar Clariana Rodagut amb Juan Manuel Garcia Ferrer, curador de l'exposició sobre cine-clubs a la Filmoteca i part de la Federació Catalana de Cineclubs
+September 18, 2019:  
+Meeting of Ainamar Clariana Rodagut and Pablo Suárez-Mansilla with Esteve Riambau (director of the Film Library of Catalonia)

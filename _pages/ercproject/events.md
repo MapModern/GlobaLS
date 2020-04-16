@@ -13,95 +13,131 @@ sidebar:
 #      size: small # small, medium (default), or large
 #      caption: # Any text
 ---
-## Upcoming Conferences
+# UPCOMING CONFERENCES
 
-2020 (forth.): ‘Pending title’, Conference ‘International Networks and Mexican Mediators’, UNAM, Mexico D.F., Mexico, 21-22/11.
+## International Networks and Mexican Mediators
+##### UNAM, Mexico D.F., Mexico, November 21-22, 2020.  
+With the participation of Diana Roig-Sanz
 
-2020 (forth.): ‘Pending title’, Conference of the European Association for Digital Humanities, Krasnoyarsk, Russia, 22-25/09.
+## Conference of the European Association for Digital Humanities
+##### Krasnoyarsk, Russia, September 22-25, 2020.
+With the participation of Diana Roig-Sanz
 
-2020 (forth.): ‘Pending title’, IX Congreso Internacional de la Asociación de Hispanistas del Benelux, Antwerpen, Belgium, 17-18/09.
+## IX Congreso Internacional de la Asociación de Hispanistas del Benelux
+##### Antwerpen, Belgium, September 17-18, 2020.
+With the participation of Diana Roig-Sanz
 
-2020 (forth.): ‘Les transferts culturels dans l'espace international: défis
-et nouvelles méthodes’, Liège, Belgium, 2ns-4rth July.
+## Les transferts culturels dans l'espace international: défis et nouvelles méthodes
+##### Liège, Belgium. July 24, 2020.
+With the participation of Diana Roig-Sanz
 
-2020 (forth.): Pending title, ‘The Network Society Today (Revisiting) The Information Age Trilogy’, IN3, Barcelona, 10-11/06.
+## Sixth European Congress on World and Global History: Minorities, Cultures of Integration, and Patterns of Exclusion.
+##### Åbo Akademi University (ÅAU). June 25-28, 2020.
+ Panel “Between the nation and the world: The role of translation in the circulation of small/minor/peripheral/less translated literatures”.  
+ With the participation of Ana Kvirikashvili, Elisabet Carbó, Diana Roig-Sanz.
 
+## The NECS 2020 Conference. Transitions: Moving Images and Bodies.  
+##### University of Palermo. June 18-20, 2020 (Cancelled).
+Workshop: “Studying Film Societies. Methodologies, Sources, Prospects”.
 
-## Past Conferences
-**Ainamar Clariana Rodagut**
+Participants: Prof. Dr. Michael Cowan, (University of St. Andrews) , Prof. Dr. Malte Hagener (Philipps-University Marburg), Dr. Ainamar Clariana Rodagut (PhD candidate, Open University of Catalonia, Barcelona), Dr. Irene Rozsa (Concordia University Montréal), Sanghita Sen (PhD candidate, University of St. Andrews)
 
-•	Congress: Audience Lost: Minority Women and Spectatorship. Ghent University (Belgium)
-Fechas: 22 y 23 de noviembre de 2019
+## The Network Society Today (Revisiting) The Information Age Trilogy
+##### IN3, Barcelona, June 10-11, 2020.
+With the participation of Diana Roig-Sanz
 
-“Lola Álvarez Bravo as a cultural mediator through her central role at the cine-club Mexicano”
+## Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique.
+##### June 8-11, 2020 (Postponed).
+With the participation of Laura Fólica and Pablo Suárez-Mansilla
 
-•	Doing Women’s Film and Television History V: Forming Histories/Histories in Formation. Maynooth University, Maynooth, Co. Kildare, Ireland. 20th-22nd Mayo, 2020 (Cancelled)
-
-“Female audiences in the LEAR’s Film-Club (1931): practices and social networks”
-
-•	Cultural History of Cinema: Experiences and Horizons. Institut national d'histoire de l'art and the École nationale des Chartes, Paris. 28-29 Mayo 2020
-“Aesthetics of a social network: the Cine-club Mexicano”
-Abstract:
-
-•	The NECS 2020 Conference. Transitions: Moving Images and Bodies.  Universidad: University of Palermo. 18-20 junio, 2020 (Cancelled)
-Workshop: “Studying Film Societies. Methodologies, Sources, Prospects”
-Participants:
-Prof. Dr. Michael Cowan, University of St. Andrews
-Prof. Dr. Malte Hagener, Philipps-University Marburg
-Dr. Ainamar Clariana Rodagut, PhD candidate, Open University of Catalonia, Barcelona
-Dr. Irene Rozsa, Concordia University Montréal
-Sanghita Sen, PhD candidate, University of St. Andrews
-
-**Elisabet Carbó Catalan**
-
-•	Summer School: Institute for World Literature. July 2019. Boston, Harvard University (USA)
-
-•	Conference: A Century of Internationalisms: The Promise and Legacies of the League of Nations. Date: 18-20 September 2019.  Lisbon, National Library of Portugal and ISCTE-IUL  (Listener participation)
-
-•	Symposium: Circulation of Symbolic Goods. 20-21 January 2020. Brussel, KU Leuven (Belgium)
-“The role of cultural organizations in the internationalization of Ibero-American cultures”
-
-•	Sixth European Congress on World and Global History: Minorities, Cultures of Integration, and Patterns of Exclusion. Åbo Akademi University (ÅAU). 25 June-28 June 2020.
-Convenor:
-Ana Kvirikashvili
-Elisabet Carbó
-Diana Roig Sanz
-“Between the nation and the world: The role of translation in the circulation of small/minor/peripheral/less translated literatures”
-
-**Pablo Suárez-Mansilla**
-
-•	Culturas cinematográficas en transición: España 1970 – 1990 ¿Una luna de miel entre un cine y su público?. Universidad Complutense de Madrid. 28 y 29 de noviembre de 2019. Amb la participació de Ainamar Clariana Rodagut
-
-•	BAFTSS Annual Conference Rethinking Screen Cultures. University of St Andrews. 16-18 April 2020
-
-•	Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique. 8-11 juin 2020 (Posponed)
-
-•	Histoire culturelle du cinéma : expériences et horizons. Paris, Campus Condorcet, l'Institut national d'histoire de l'art et l’École nationale des Chartes. 28-29 mai 2020
-
-**Ventsislav Ikoff**
-
-2019: Curso de  verano: Comunica tu ciencia. Universidad del País Vasco. 27-28/06
-2019: European Summer University in Digital Humanities. University of Leipzig. 23/07- 02/08.  
-2019: Curso Internacional: Introducción a la teoría de grafos y análisis de redes. Universidad de Vigo. 28-29/11.
-
-**Diana Roig Sanz**
+## Cultural History of Cinema: Experiences and Horizons.
+##### Institut national d'histoire de l'art and the École nationale des Chartes, Paris. 28-29 Mayo 2020.
+Ainamar Clariana Rodagut: “Aesthetics of a social network: the Cine-club Mexicano”.  
 
 
-2019: ‘Big Translation History. The Circulation of Books (Spain-Latin America 1900-1945)‘, Big Translation History. The Circulation of Books (Spain-Latin America 1900-1945). 9th Congress of the European Society for Translation. Panel: ‘Big Translation History: The Use of Data Mining and Big Data Approaches’. University of Stellenbosch, South Africa. 9-13 September 2019. With the participation of Laura Fólica.
+## Histoire culturelle du cinéma : expériences et horizons.
+##### Paris, Campus Condorcet, l'Institut national d'histoire de l'art et l’École nationale des Chartes. 28-29 May 2020.
+With the participation of Pablo Suárez-Mansilla
 
-2019: ‘Towards a History of Transnational Publishing: Theoretical and Methodological Reflections’, 11/06, Ghent, Belgium.
-2019: ‘The Use of Data Mining and Big Data Approaches in Big Translation History. The Circulation of Books (Spain-Latin America 1900-1945)” History’, 12/06, Brussels, Belgium.
-2019: ‘Las redes sociales del pasado. Cartografía de la modernidad literaria iberoamericana, 1898-1959’, Writing Spaces, Mapping Words conference, 29-30/05, Lisbon, Portugal.
-2019: ‘Shaping International Literary Exchanges. Ibero-American Modernity as a Case Study’, Paradoxes and Misunderstandings in Cultural Transfers, Louvain-la-Neuve, 22-24/05.
+## Doing Women’s Film and Television History V: Forming Histories/Histories in Formation.
+##### Maynooth University, Maynooth, Co. Kildare, Ireland. May 20-22, 2020 (Cancelled).
+Ainamar Clariana Rodagut: “Female audiences in the LEAR’s Film-Club (1931): practices and social networks”.  
 
-**Laura Fólica**
 
-2020 : Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique. 8-11 juin 2020 (Posponed)
+## BAFTSS Annual Conference Rethinking Screen Cultures.
+##### University of St Andrews. April 16-18, 2020.
+With the participation of Pablo Suárez-Mansilla
 
-2019 : Workshop por invitació : Congrés: 36 Assisses de la Traduction Littéraire, "¡Vamos Allais!: traducción del humor". Arles, França, 9-10/11.
+---
+---
 
-2019: Congreso: V Jornadas Internacionales de Traductología, "Hacia una Big Translation History: desfíos metodológicos para el uso de big data en historia de la traducción". Universidad de Córdoba, Argentina, 31/07, 01-02/08.
+# PAST EVENTS
 
-2019: Congreso: Seminario Permanente de Estudios de Traducción, "La Historia de la Traducción desde la perspectiva de las Humanidades Digitales: algunas reflexiones metodológicas". IES Lenguas Vivas, Buenos Aires	 15/08.
+## Symposium: Circulation of Symbolic Goods.
+##### 20-21 January 2020. Brussel, KU Leuven, Belgium.
+Elisabet Carbó Catalán: “The role of cultural organizations in the internationalization of Ibero-American cultures”.  
 
-2019: Conferencia: Asociación Argentina de Traductores e Intérpretes-Instituto Francés, "Apoyo a la traducción y a la publicación en Francia para argentinos y extranjeros". Alianza Francesa de Buenos Aires, 08/08. Con la participación de Julia Azzareto.
+
+## Culturas cinematográficas en transición: España 1970 – 1990 ¿Una luna de miel entre un cine y su público?.
+##### Universidad Complutense de Madrid. November 28-29, 2019.
+With the participation of Ainamar Clariana Rodagut and Pablo Suárez-Mansilla
+
+## International Course: Introducción a la teoría de grafos y análisis de redes
+##### University of Vigo. November 9-11, 2019.
+Attended by Ventsislav Ikoff
+
+## Audience Lost: Minority Women and Spectatorship.
+##### Ghent University, Belgium. November 22-23, 2019.
+ Ainamar Clariana Rodagut: “Lola Álvarez Bravo as a cultural mediator through her central role at the cine-club Mexicano”.
+
+## Congrés: 36 Assisses de la Traduction Littéraire
+##### Arles, França, 9-10/11-19.
+"¡Vamos Allais!: traducción del humor" - workshop by Laura Fólica
+
+## A Century of Internationalisms: The Promise and Legacies of the League of Nations
+##### Lisbon, National Library of Portugal and ISCTE-IUL. September 18-20 2019.
+Attended by Elisabet Carbó Catalán
+
+## 9th Congress of the European Society for Translation. Panel: “Big Translation History: The Use of Data Mining and Big Data Approaches”, University of Stellenbosch, South Africa. September 9-13, 2019.
+Panel “Big Translation History. The Circulation of Books (Spain-Latin America 1900-1945”  
+Diana Roig-Sanz and Laura Fólica: "Big Translation History. The Circulation of Books (Spain-Latin America 1900-1945)"
+
+## Seminario Permanente de Estudios de Traducción
+##### IES Lenguas Vivas, Buenos Aires. August 15, 2019.
+Laura Fólica: "La Historia de la Traducción desde la perspectiva de las Humanidades Digitales: algunas reflexiones metodológicas".
+
+## Asociación Argentina de Traductores e Intérpretes-Instituto Francés
+##### Alianza Francesa de Buenos Aires, August 08, 2019.
+Laura Fólica and Julia Azzareto: "Apoyo a la traducción y a la publicación en Francia para argentinos y extranjeros".
+
+## V Jornadas Internacionales de Traductología
+##### Universidad de Córdoba, Argentina. July 31-August  01-02, 2019.
+ Laura Fólica: "Hacia una Big Translation History: desafíos metodológicos para el uso de big data en historia de la traducción".
+
+## European Summer University in Digital Humanities.
+##### University of Leipzig. July 23- August 02, 2019.
+Attended by Ventsislav Ikoff
+
+## The Institute for World Literature
+##### Boston, Harvard University, USA. July 2019.
+Attended by Elisabet Carbó Catalán
+
+## Summer School: Comunica tu ciencia.
+University of the Basque Country. June 27-28, 2019.
+Attended by Ventsislav Ikoff
+
+## The Use of Data Mining and Big Data Approaches in Big Translation History
+### Brussels, Belgium. June 12, 2019
+Conference by Diana Roig-Sanz
+
+## Towards a History of Transnational Publishing: Theoretical and Methodological Reflections
+##### Ghent, Belgium. June 11, 2019
+Conference by Diana Roig-Sanz
+
+## Writing Spaces, Mapping Words conference
+##### Lisbon, Portugal. May 29-30, 2019.
+Diana Roig Sanz: “Las redes sociales del pasado. Cartografía de la modernidad literaria iberoamericana, 1898-1959”.
+
+## Paradoxes and Misunderstandings in Cultural Transfers
+##### Louvain-la-Neuve, May 22-24, 2019.
+Diana Roig-Sanz: “Shaping International Literary Exchanges. Ibero-American Modernity as a Case Study”.

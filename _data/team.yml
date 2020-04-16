@@ -136,8 +136,6 @@ Pau Bosch Santos:
 
 
                   He obtained his MA in Social Sciences from Paris' EHESS under Jean-Marie Schaeffer, and two BA's, in Philosophy and Literary Theory and Comparative Literature, from the University of Barcelona."
-#   biblio:
-#    - ref:
    avatar      : "/assets/images/pau-bosch.jpg"
    url         : "/team/phd/pau-bosch/"
    links:
@@ -151,10 +149,10 @@ Ana Kvirikashvili:
    bio         : "Ana Kvirikashvili is a PhD student in the Doctoral Programme in the Information and Knowledge Society at the Universitat Oberta de Catalunya (UOC) with a doctoral grant form the Fundació per a la Universitat Oberta de Catalunya.
 
 
-                  Her doctoral project is titled “La circulació de la literatura contemporània georgiana: entre el local i el global (1995-2020)” and her research interests lie in the sociology of literature and translation, global literary studies, digital humanities, Georgian literature and culture, as well as in printed art and artistic publishing.
+   Her doctoral project is titled “La circulació de la literatura contemporània georgiana: entre el local i el global (1995-2020)” and her research interests lie in the sociology of literature and translation, global literary studies, digital humanities, Georgian literature and culture, as well as in printed art and artistic publishing.
 
 
-                  She holds a degree in Fine Arts from the Universitat de Barcelona and a Master's degree in Humanities: contemporary art, literature and culture from the UOC."
+   She holds a degree in Fine Arts from the Universitat de Barcelona and a Master's degree in Humanities: contemporary art, literature and culture from the UOC."
    #   biblio:
    #   - ref:
    avatar      : "/assets/images/ana-kvirikashvili.jpg"
@@ -170,10 +168,10 @@ Elisabet Carbó Catalan:
    bio         : "Elisabet Carbó has a B.A. in Translation and Interpreting and French Philology (UAB) and a Master's Degree in Catalan Didactics for Adults (UB-UVic). She also completed the Erasmus Mundus Master Course in European Literary Cultures (Université de Strasbourg and Alma Mater Studiorum Università di Bologna), which allowed her to specialize in the field of sociology of translation.
 
 
-                  She is currently a member of the ERC project “Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)”, where she is developping a doctoral thesis on the institutionalization of Iberoamerican culture through international mobility.
+   She is currently a member of the ERC project “Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)”, where she is developping a doctoral thesis on the institutionalization of Iberoamerican culture through international mobility.
 
 
-                  She worked in the past as a professor of Catalan studies at University of Bologna and as a translator."
+   She worked in the past as a professor of Catalan studies at University of Bologna and as a translator."
    #   biblio:
    #   - ref:
    avatar      : "/assets/images/elisabet-carbo.jpg"
@@ -183,21 +181,6 @@ Elisabet Carbó Catalan:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ecarboc@uoc.edu"
 
-Aina Vidal Pérez:
-   name        : "Aina Vidal Pérez"
-   #bio-short   : "..."
-   bio         : "Aina Vidal holds a degree in Hispanic Philology from the Universitat de València and a Master's degree in Humanities: contemporary art, literature and culture from the Universitat Oberta de Catalunya, concluded with a final project on memory and space in the narrative of Rafael Chirbes.
-
-
-                  She is currently following her PhD with a thesis dedicated to the literary representations of the Mediterranean Coast in the global era, titled “Mediterrani global. Representacions del litoral en crisi en la novel·la del segle XXI”. Her research is part of the new framework of global literary studies and aims to contribute to recent research on the novel and to the growing debate in the field of space representations and ecocriticism."
-   #   biblio:
-   #   - ref:
-   avatar      : "/assets/images/aina-vidal.jpg"
-   url         : "/team/phd/aina-vidal/"
-   links:
-    - label: "avidalpe@uoc.edu"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:avidalpe@uoc.edu"
 
 Ainamar Clariana Rodagut:
    name        : "Ainamar Clariana Rodagut"
@@ -246,9 +229,31 @@ contents, formats and technology– (GEA, USC)."
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:psuarezmg@uoc.edu"
 
+
+Aina Vidal Pérez:
+   name        : "Aina Vidal Pérez"
+   #bio-short   : "..."
+   bio         : "Aina Vidal holds a degree in Hispanic Philology from the Universitat de València and a Master's degree in Humanities: contemporary art, literature and culture from the Universitat Oberta de Catalunya, concluded with a final project on memory and space in the narrative of Rafael Chirbes.
+
+
+   She is currently following her PhD with a thesis dedicated to the literary representations of the Mediterranean Coast in the global era, titled “Mediterrani global. Representacions del litoral en crisi en la novel·la del segle XXI”. Her research is part of the new framework of global literary studies and aims to contribute to recent research on the novel and to the growing debate in the field of space representations and ecocriticism."
+   #   biblio:
+   #   - ref:
+   avatar      : "/assets/images/aina-vidal.jpg"
+   url         : "/team/phd/aina-vidal/"
+   links:
+    - label: "avidalpe@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:avidalpe@uoc.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://research.uoc.edu"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MapModern"
+
 Jorge J. Locane:
    name        : "Jorge J. Locane"
-   bio-short   : "Visiting Scholar"
    bio         : "JORGE J. LOCANE studied literature at the University of Buenos Aires and obtained his PhD at the Free University of Berlin. His doctoral thesis was awarded with the German ADLAF prize and published under the title *Miradas locales en tiempos globales* by Iberoamericana/Vervuert.
 
 
@@ -265,7 +270,7 @@ Jorge J. Locane:
     - ref: "Müller, Gesine, Jorge J. Locane and Benjamin Loy (eds.) (2018). *Re-mapping World Literature Writing, Book Markets and Epistemologies between Latin America and the Global South / Escrituras, mercados y epistemologías entre América Latina y el Sur Global*. Berlin / Boston: Walter de Gruyter."
     - ref: "Locane, Jorge J. (2016). *Miradas locales en tiempos globales. Intervenciones literarias sobre la ciudad latinoamericana*. Madrid / Frankfurt: Iberoamericana Vervuert."
    avatar      : "/assets/images/jorge-locane.jpg"
-   url         : "/team/researchers/jorge-locane/"
+   url         : "/team/visiting/jorge-locane/"
 
 Lucía Leandro Hernández:
     name       : "Lucía Leandro Hernández"
@@ -278,4 +283,39 @@ Lucía Leandro Hernández:
 
                   She is member of the GlobaLS team in the communication and research support area."
     avatar     : "/assets/images/lucia-leandro.jpg"
-    url        : "team/researchers/lucia-leandro"
+    url        : "team/assistants/lucia-leandro/"
+
+Paulo Lemos Horta:
+   name        : "Paulo Lemos Horta"
+#   bio-short   : "Visiting Scholar"
+#   bio         :
+#   biblio:
+#    - ref:
+   avatar      : "/assets/images/portrait-placeholder.png"
+#   url         : "/team/visiting/paulo-horta/"
+
+Maud Gonne:
+   name        : "Maud Gonne"
+#   bio-short   : "Visiting Scholar"
+#   bio         :
+#   biblio:
+#    - ref:
+   avatar      : "/assets/images/portrait-placeholder.png"
+#   url         : "/team/visiting/maud-gonne/"
+#   links:
+#    - label: "mgonne@uoc.edu"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:mgonne@uoc.edu"
+
+Helena Herrera Clapers:
+   name        : "Helena Herrera Clapers"
+#   bio-short   : "Research Assistant"
+#   bio         : ""
+#   biblio:
+#    - ref:
+   avatar      : "/assets/images/portrait-placeholder.png"
+#   url         : "/team/assistants/helena-herrera/"
+#   links:
+#    - label: "hherrerac@uoc.edu"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:hherrerac@uoc.edu"
