@@ -1,6 +1,6 @@
 ---
 layout: single
-#title: Participation in Conferences
+title: 
 permalink: /ercproject/events/
 sidebar:
         nav: ercproject
