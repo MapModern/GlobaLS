@@ -1,6 +1,6 @@
 ---
 layout: profile
-permalink: "/team/researchers/lucia-leandro/"
+permalink: "/team/assistants/lucia-leandro/"
 sidebar:
         nav: "team"
 person: Lucía Leandro Hernández
