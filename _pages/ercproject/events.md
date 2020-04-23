@@ -19,6 +19,7 @@ sidebar:
 ##### IN3- Arts and Humanities Department, Universitat Oberta de Catalunya, Spain, November 19-20, 2020
 ##### Organized by the ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959), led by Diana Roig Sanz (Grant agreement No.803860)
 ---
+
 We lack a shared theoretical framework that would allow us to consider common features and articulate differences. The goal of this scientific gathering is to study organizations, both private and public, that share a focus on the cultural field and, especially, on cultural promotion. We aim to use case studies to analyze their internal operations (organization, members, activities, evolution, changes over time, etc.) and broader context (historical, political, economic, etc.). We will privilege the study of cultural organizations operating from the last few decades of the nineteenth century to the 1960s, given our understanding that said period saw a progressive shift towards globalization in the international literary space through the intensified circulation of persons, symbolic goods, and ideas. Further, we end with the 1960s due to the changes
 that took place around said time in terms how mass media changed the organizational strategies of cultural life.
 The proposed areas of research include the following:
