@@ -15,6 +15,31 @@ sidebar:
 ---
 # UPCOMING CONFERENCES
 
+## Cultural Organizations: Between the Local and the Global (1880s-1960s)
+##### IN3- Arts and Humanities Department, Universitat Oberta de Catalunya, Spain, November 19-20, 2020
+##### Organized by the ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959), led by Diana Roig Sanz (Grant agreement No.803860)
+---
+We lack a shared theoretical framework that would allow us to consider common features and articulate differences. The goal of this scientific gathering is to study organizations, both private and public, that share a focus on the cultural field and, especially, on cultural promotion. We aim to use case studies to analyze their internal operations (organization, members, activities, evolution, changes over time, etc.) and broader context (historical, political, economic, etc.). We will privilege the study of cultural organizations operating from the last few decades of the nineteenth century to the 1960s, given our understanding that said period saw a progressive shift towards globalization in the international literary space through the intensified circulation of persons, symbolic goods, and ideas. Further, we end with the 1960s due to the changes
+that took place around said time in terms how mass media changed the organizational strategies of cultural life.
+The proposed areas of research include the following:
+
+- The internationalization of a culture through the actions of cultural organizations
+What are the specific features of power relations in the cultural field and what mechanisms have been used historically to alter or add nuance to these features? Which historical examples might we study, both as successes and as failures? Which cultural organizations and actors articulate cultural internationalization? How is the global
+manifested in cultural organizations operating at the local/national level? How does foreign action influence national culture? How does the process of professionalization evolve in the field of cultural mediation? How does this shift become manifest in specific practices? How are cultural organizations related to other forms of cultural
+mediation, such as magazines, conferences, congresses, and festivals?
+- Articulating the public and the private
+How are public powers related to cultural organizations in the private sector? What is the relationship between private initiatives and the public powers that formulate cultural policies?
+
+- Transnational analysis
+Is dialogue possible between cultural organizations in different geographical contexts? Can parallels be established among different and idiosyncratic processes? How can we articulate transnational comparisons without diluting the power relations between cultural areas? What are the specific features of the practices of hegemonic cultures, on the one hand, and of peripheral cultures, on the other?
+
+- The revision of theoretical frameworks and methodologies in the study of cultural organizations
+What are the main challenges that the study of cultural organizations faces in terms of accessing and collecting primary sources? What can the digital humanities, big data, data visualization tools, etc., contribute? How can network analysis inform our understanding of cultural-transfer phenomena? What are the advantages and issues with using the notion of the network, either metaphorically or not? How can these be combined with traditional methodologies, such as the bibliographical focus or the prosopographical study?
+
+#### Submissions:
+
+Authors should submit an abstract (300 words), filiation, bio-note and a short reference list to Elisabet Carbó (ecarboc@uoc.edu) and Diana Roig Sanz (dsanzr@uoc.edu) before July 31, 2020. Papers may be written in English, French, Spanish, or Catalan. During the Conference, an extended summary and a power-point presentation (if used) should be written in English to ensure successful exchanges between participants.
+
 ## International Networks and Mexican Mediators
 ##### UNAM, Mexico D.F., Mexico, November 21-22, 2020.  
 With the participation of Diana Roig-Sanz
