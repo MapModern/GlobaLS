@@ -6,13 +6,13 @@ permalink: /calls/
 
 ## International Conference Cultural Organizations: Between the Local and the Global (1880s-1960s)
 
-[Download the call as pdf](/assets/docs/CfP_CulturalorganizationsUOC_EN.pdf){: .btn .btn--inverse download="cfp-culturalorganizations_uoc_en"} [Versión en castellano](/es/calls/){: .btn .btn--inverse } [Descargar la convocatoria](/assets/docs/CfP_Instituciones_Culturales_ES.pdf){: .btn .btn--inverse download="convocatoria_institucionesculturales_uoc_es"}
+[Download the call as pdf](/GlobaLS/assets/docs/CfP_CulturalorganizationsUOC_EN.pdf){: .btn .btn--inverse download="cfp-culturalorganizations_uoc_en"} [Versión en castellano](/GlobaLS/es/calls/){: .btn .btn--inverse } [Descargar la convocatoria](/GlobaLS/assets/docs/CfP_Instituciones_Culturales_ES.pdf){: .btn .btn--inverse download="convocatoria_institucionesculturales_uoc_es"}
 {: style="text-align:center"}
 
 **Date**: November 19-20, 2020  
 **Venue**: Universitat Oberta de Catalunya, Av. Tibidabo 39, 08035, Barcelona (Spain).
 
-![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
+![European Research Council](/GlobaLS/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
 IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
 
 *Given the exceptional circumstances surrounding the Covid-19 pandemic, the organizers wish to express that we will follow the situation closely and an online version of this conference might be considered if future updates advise it. Even though an on-site format is preferred, a final decision will be provided to all participants at the beginning of September.*
@@ -65,6 +65,6 @@ The organizers have planned the publication of a collective edited volume in a t
 
 **Organizers:**
 
-- [Elisabet Carbó](/team/phd/elisabet-carbo/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): ecarboc@uoc.edu  
-- [Diana Roig Sanz](/team/researchers/diana-roig/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): dsanzr@uoc.edu  
-- [Lucía Leandro Hernández](/team/assistants/lucia-leandro/) (GlobaLS, UOC): lleandro@uoc.com  
+- [Elisabet Carbó](/GlobaLS/team/phd/elisabet-carbo/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): ecarboc@uoc.edu  
+- [Diana Roig Sanz](/GlobaLS/team/researchers/diana-roig/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): dsanzr@uoc.edu  
+- [Lucía Leandro Hernández](/GlobaLS/team/assistants/lucia-leandro/) (GlobaLS, UOC): lleandro@uoc.com  

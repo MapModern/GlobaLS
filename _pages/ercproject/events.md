@@ -15,16 +15,18 @@ sidebar:
 ---
 # UPCOMING CONFERENCES
 
-## [Cultural Organizations: Between the Local and the Global (1880s-1960s)](/calls/)
+## [Cultural Organizations: Between the Local and the Global (1880s-1960s)](/GlobaLS/calls/)
 ##### Universitat Oberta de Catalunya, Av. Tibidabo 39, 08035, Barcelona (Spain). November 19-20, 2020
 
-![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
+![European Research Council](/GlobaLS/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
 IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
 
 *Given the exceptional circumstances surrounding the Covid-19 pandemic, the organizers wish to express that we will follow the situation closely and an online version of this conference might be considered if future updates advise it. Even though an on-site format is preferred, a final decision will be provided to all participants at the beginning of September.*
 {: .notice }
 
-**Call for Papers**: The call for papers for this conference has been opened. [Read the full call here](/calls/).
+**Call for Papers**: The call for papers for this conference has been opened. [Read the full call here](/GlobaLS/calls/).
+
+[ES] La convocatoria para este congreso está abierta. [Consultar la convocatoria completa aquí](/GlobaLS/es/calls/).
 
 **Submissions**:
 

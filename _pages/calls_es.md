@@ -8,13 +8,13 @@ permalink: /es/calls/
 
 ## Congreso Internacional "Instituciones Culturales: entre lo local y lo global (1880-1960)"
 
-[Descargar la convocatoria](/assets/docs/CfP_Instituciones_Culturales_ES.pdf){: .btn .btn--inverse download="convocatoria_institucionesculturales_uoc_es"} [English version](/calls/){: .btn .btn--inverse } [Download the call as pdf](/assets/docs/CfP_CulturalorganizationsUOC_EN.pdf){: .btn .btn--inverse download="cfp-culturalorganizations_uoc_en"} 
+[Descargar la convocatoria](/GlobaLS/assets/docs/CfP_Instituciones_Culturales_ES.pdf){: .btn .btn--inverse download="convocatoria_institucionesculturales_uoc_es"} [English version](/GlobaLS/calls/){: .btn .btn--inverse } [Download the call as pdf](/GlobaLS/assets/docs/CfP_CulturalorganizationsUOC_EN.pdf){: .btn .btn--inverse download="cfp-culturalorganizations_uoc_en"}
 {: style="text-align:center"}
 
 **Fecha**: 19-20 de noviembre, 2020  
 **Lugar**: Universitat Oberta de Catalunya, Av. Tibidabo 39, 08035, Barcelona.
 
-![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organizado por el proyecto *ERC StG Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*, dirigido por Diana Roig Sanz.  
+![European Research Council](/GlobaLS/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organizado por el proyecto *ERC StG Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*, dirigido por Diana Roig Sanz.  
 [GlobaLS- Global Literary Studies Research Group](https://globals.research.uoc.edu/)  
 IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
 
@@ -70,6 +70,6 @@ Los organizadores prevén la publicación de un volumen colectivo en una editori
 
 **Organización:**
 
-- [Elisabet Carbó](/team/phd/elisabet-carbo/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): ecarboc@uoc.edu  
-- [Diana Roig Sanz](/team/researchers/diana-roig/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): dsanzr@uoc.edu  
-- [Lucía Leandro Hernández](/team/assistants/lucia-leandro/) (GlobaLS, UOC): lleandro@uoc.com  
+- [Elisabet Carbó](/GlobaLS/team/phd/elisabet-carbo/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): ecarboc@uoc.edu  
+- [Diana Roig Sanz](/GlobaLS/team/researchers/diana-roig/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): dsanzr@uoc.edu  
+- [Lucía Leandro Hernández](/GlobaLS/team/assistants/lucia-leandro/) (GlobaLS, UOC): lleandro@uoc.com  
