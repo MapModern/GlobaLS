@@ -6,7 +6,8 @@ permalink: /calls/
 
 ## International Conference Cultural Organizations: Between the Local and the Global (1880s-1960s)
 
-[Download the full call as pdf.](/assets/docs/cfp_culturalorganizations_uoc_en.pdf){: .btn .btn--inverse .align-center download="cfp-culturalorganizations_uoc_en"}
+[Download the call as pdf](/assets/docs/CfP_CulturalorganizationsUOC_EN.pdf){: .btn .btn--inverse download="cfp-culturalorganizations_uoc_en"} [Versión en castellano](/es/calls/){: .btn .btn--inverse } [Descargar la convocatoria](/assets/docs/CfP_Instituciones_Culturales_ES.pdf){: .btn .btn--inverse download="convocatoria_institucionesculturales_uoc_es"}
+{: style="text-align:center"}
 
 **Date**: November 19-20, 2020  
 **Venue**: Universitat Oberta de Catalunya, Av. Tibidabo 39, 08035, Barcelona (Spain).
@@ -54,9 +55,12 @@ What are the main challenges that the study of cultural organizations faces in t
 
 **Submissions:**
 
-Authors should submit an abstract (300 words), filiation, bio-note and a short reference list to Elisabet Carbó (ecarboc@uoc.edu) and Diana Roig Sanz (dsanzr@uoc.edu) **before July 31, 2020**.
+Authors should submit an abstract (300 words), filiation, bio-note and a short reference list to Elisabet Carbó (ecarboc@uoc.edu) and Diana Roig Sanz (dsanzr@uoc.edu) **before July 15, 2020**.
+
 Papers may be written in English, French, Spanish, or Catalan. During the Conference, an extended summary and a power-point presentation (if used) should be written in English to ensure successful exchanges between participants.
+
 Participation in the Conference is free, but speakers and assistants must register due to the limited number of seats. The organizers will send the link for registration after the acceptance of all papers.
+
 The organizers have planned the publication of a collective edited volume in a top-ranked publisher or a special issue in a well-known international journal. All papers will go through a double-blind peer review process.
 
 **Organizers:**
