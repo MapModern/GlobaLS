@@ -11,14 +11,14 @@ photos:
         caption: # photo caption
 ---
 ## *Cosmopolitanism*
-### [Paulo Lemos Horta (NYU-Abu Dhabi)](https://globals.research.uoc.edu/team/visiting/paulo-horta/) and [Bruce Robbins (Columbia University)](https://english.columbia.edu/content/bruce-robbins) 
-##### Tuesday, April 28 2020, 15:00 - 17:30. [Virtual Seminar] 
+### [Paulo Lemos Horta (NYU-Abu Dhabi)](https://globals.research.uoc.edu/team/visiting/paulo-horta/) and [Bruce Robbins (Columbia University)](https://english.columbia.edu/content/bruce-robbins)
+##### Tuesday, April 28 2020, 15:00 - 17:30. [Virtual Seminar]
 
 Texts for discussion:
 
-Santiago, Silvano (2017). _The Cosmopolitanism of the Poor_. Translated by Paulo Lemos Horta and Magdalena Edwards. Los Angeles: Review of Books.
+Santiago, Silviano (2017). _The Cosmopolitanism of the Poor_. Translated by Paulo Lemos Horta and Magdalena Edwards. Los Angeles: Review of Books. <https://lareviewofbooks.org/article/the-cosmopolitanism-of-the-poor/>
 
-Lemos Horta, Paulo (2017). "Cosmopolitan Prejudice". In Bruce Robbins, Paulo Lemos Horta, and Kwame Anthony Appiah (eds.), _Cosmopolitanisms_. New York: NYU Press Scholarship, 153-168. 
+Lemos Horta, Paulo (2017). "Cosmopolitan Prejudice". In Bruce Robbins, Paulo Lemos Horta, and Kwame Anthony Appiah (eds.), _Cosmopolitanisms_. New York: New York University Press, 153-168.
 
 ## *Between success and failure – Cultural mediators of regionalist movements (1880-1930)*
 ### Maud Gonne (Université de Namur / Université catholique de Louvain)

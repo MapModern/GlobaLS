@@ -14,14 +14,14 @@ September 27, 2019
 
 Texts for discussion:
  - Walkowitz, Rebeca. *Born Translated. The Contemporary Novel in an Age of World Literature*. Columbia University Press, 2015. (p. 1-48)
- - Willson, Patricia. “La traducción y sus discursos. Apuntes sobre la historia de la traductología”. *Ex-Libris* 2, (2013): 82-95.
+ - Wilson, Patricia. “La traducción y sus discursos. Apuntes sobre la historia de la traductología”. *Ex-Libris* 2, (2013): 82-95.
 
-Bio-note: Patricia Willson es doctora en letras por la Universidad de Buenos Aires y traductora por el IES en Lenguas Vivas. Es autora de *La constelación del Sur. Traductores y traducciones en la literatura argentina del siglo XX* (Siglo XXI Editores, 2004, 2017) y de *Página impar. Textos sobre la traducción en Argentina: conceptos, historia, figuras* (EThos, 2019). Es coeditora de *Impliciter/Expliciter. L'intervention du traducteur* (Presses universitaires de Liège, 2018) y de *Traductores y traducciones en la historia cultural de América Latina* (UNAM, 2011). Ha traducido, entre otros autores, a Roland Barthes, Paul Ricœur, Gustave Flaubert, Jean-Paul Sartre, Richard Rorty, Mary Shelley, Mark Twain, H.P. Lovecraft, Jack London. Actualmente enseña en la Universidad de Liège y dirige la Carrera de Especialización en Traducción Literaria de la Facultad de Filosofía y Letras de la Universidad de Buenos Aires. Es miembro fundador de la Asociación Latinoamericana de Estudios de Traducción e Interpretación (ALAETI) y de la Asociación Internacional de Estudios de Traducción e Interculturales (IATIS).
+Bio-note: Patricia Wilson es doctora en letras por la Universidad de Buenos Aires y traductora por el IES en Lenguas Vivas. Es autora de *La constelación del Sur. Traductores y traducciones en la literatura argentina del siglo XX* (Siglo XXI Editores, 2004, 2017) y de *Página impar. Textos sobre la traducción en Argentina: conceptos, historia, figuras* (EThos, 2019). Es coeditora de *Impliciter/Expliciter. L'intervention du traducteur* (Presses universitaires de Liège, 2018) y de *Traductores y traducciones en la historia cultural de América Latina* (UNAM, 2011). Ha traducido, entre otros autores, a Roland Barthes, Paul Ricœur, Gustave Flaubert, Jean-Paul Sartre, Richard Rorty, Mary Shelley, Mark Twain, H.P. Lovecraft, Jack London. Actualmente enseña en la Universidad de Liège y dirige la Carrera de Especialización en Traducción Literaria de la Facultad de Filosofía y Letras de la Universidad de Buenos Aires. Es miembro fundador de la Asociación Latinoamericana de Estudios de Traducción e Interpretación (ALAETI) y de la Asociación Internacional de Estudios de Traducción e Interculturales (IATIS).
 
-## Cinema 
+## Cinema
 
 ### Seminar with Malte Hagener (University of Marburg)
-October 08, 2020
+March 31, 2020
 
 Bio-note: Malte Hagener is a professor in media studies with a focus on the history, aesthetics and theory of film at Philipps University Marburg. He directs the DFG-funded project media/rep/ - an open access repository in media studies. He is a co-founder of  Necs –European Network for Cinema and Media Studies as well as member of the editorial board of the peer-reviewed OA-journal Necsus– European Journal of Media Studies.
 
@@ -105,7 +105,7 @@ Texts for discussion:
 
 -Santiago, Silvano (2017). _The Cosmopolitanism of the Poor_. Translated by Paulo Lemos Horta and Magdalena Edwards. Los Angeles: Review of Books.
 
--Lemos Horta, Paulo (2017). "Cosmopolitan Prejudice". In Bruce Robbins, Paulo Lemos Horta, and Kwame Anthony Appiah (eds.), _Cosmopolitanisms_. New York: NYU Press Scholarship, 153-168. 
+-Lemos Horta, Paulo (2017). "Cosmopolitan Prejudice". In Bruce Robbins, Paulo Lemos Horta, and Kwame Anthony Appiah (eds.), _Cosmopolitanisms_. New York: NYU Press Scholarship, 153-168.
 
 ### Modernity and the case of Brazil. Seminar with María Íñigo (UOC)
 October 1, 2019
