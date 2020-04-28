@@ -15,6 +15,7 @@ photos:
 ##### Tuesday, April 28 2020, 15:00 - 17:30. [Virtual Seminar] 
 
 Texts for discussion:
+
 Santiago, Silvano (2017). _The Cosmopolitanism of the Poor_. Translated by Paulo Lemos Horta and Magdalena Edwards. Los Angeles: Review of Books.
 
 Lemos Horta, Paulo (2017). "Cosmopolitan Prejudice". In Bruce Robbins, Paulo Lemos Horta, and Kwame Anthony Appiah (eds.), _Cosmopolitanisms_. New York: NYU Press Scholarship, 153-168. 
