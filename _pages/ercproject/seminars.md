@@ -70,7 +70,7 @@ Texts for discussion:
 ### The experience at the Institute for World Literature, Harvard University, July 2019. Seminar with Elisabet Carbó and Pau Bosch (UOC - GlobaLS)
 September 17, 2019
 
-## Institutions
+## Libraries Research
 
 ### Seminar with Paula Bruno (Argentine researcher at CONICET)
 February 5, 2020
