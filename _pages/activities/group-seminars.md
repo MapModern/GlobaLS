@@ -11,7 +11,7 @@ photos:
         caption: # photo caption
 ---
 ## *Cosmopolitanism*
-### [Paulo Lemos Horta (NYU-Abu Dhabi)](https://globals.research.uoc.edu/team/visiting/paulo-horta/) and [Bruce Robbins](https://english.columbia.edu/content/bruce-robbins) 
+### [Paulo Lemos Horta (NYU-Abu Dhabi)](https://globals.research.uoc.edu/team/visiting/paulo-horta/) and [Bruce Robbins (Columbia University)](https://english.columbia.edu/content/bruce-robbins) 
 ##### Tuesday, April 28 2020, 15:00 - 17:30. [Virtual Seminar] 
 
 Texts for discussion:
