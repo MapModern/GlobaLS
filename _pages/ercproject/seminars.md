@@ -98,7 +98,7 @@ Bio-note: Ignasi Labastida i Juan (1970) is a Catalan free knowledge researcher 
 
 ## Modernity
 
-### Cosmopolitanism. Virtual Seminar with Paulo Lemos Horta (NYU-Abu Dhabi)
+### Cosmopolitanism. Virtual Seminar with Paulo Lemos Horta (NYU-Abu Dhabi) and Bruce Robbins (Columbia University)
 Tuesday, April 28 2020, 15:00 - 17:30
 
 Texts for discussion:
