@@ -98,6 +98,15 @@ Bio-note: Ignasi Labastida i Juan (1970) is a Catalan free knowledge researcher 
 
 ## Modernity
 
+### Cosmopolitanism. Virtual Seminar with Paulo Lemos Horta (NYU-Abu Dhabi)
+Tuesday, April 28 2020, 15:00 - 17:30
+
+Texts for discussion:
+
+-Santiago, Silvano (2017). _The Cosmopolitanism of the Poor_. Translated by Paulo Lemos Horta and Magdalena Edwards. Los Angeles: Review of Books.
+
+-Lemos Horta, Paulo (2017). "Cosmopolitan Prejudice". In Bruce Robbins, Paulo Lemos Horta, and Kwame Anthony Appiah (eds.), _Cosmopolitanisms_. New York: NYU Press Scholarship, 153-168. 
+
 ### Modernity and the case of Brazil. Seminar with María Íñigo (UOC)
 October 1, 2019
 
