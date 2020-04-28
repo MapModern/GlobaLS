@@ -10,9 +10,18 @@ photos:
         size:  # small, medium (default), or large
         caption: # photo caption
 ---
+## *Cosmopolitanism*
+### [Paulo Lemos Horta (NYU-Abu Dhabi)](https://globals.research.uoc.edu/team/visiting/paulo-horta/)
+##### Tuesday, April 28 2020, 15:00 - 17:30. [Virtual Seminar] 
+
+Texts for discussion:
+Santiago, Silvano (2017). _The Cosmopolitanism of the Poor_. Translated by Paulo Lemos Horta and Magdalena Edwards. Los Angeles: Review of Books.
+
+Lemos Horta, Paulo (2017). "Cosmopolitan Prejudice". In Bruce Robbins, Paulo Lemos Horta, and Kwame Anthony Appiah (eds.), _Cosmopolitanisms_. New York: NYU Press Scholarship, 153-168. 
+
 ## *Between success and failure – Cultural mediators of regionalist movements (1880-1930)*
 ### Maud Gonne (Université de Namur / Université catholique de Louvain)
-##### Wednesday, 11 March 2020, 16:00 - 18:00. UOC | Building Tibidabo 3 | Sala Hannah Arendt | Avinguda Tibidabo, 47 | Barcelona
+##### Wednesday, March 11 2020, 16:00 - 18:00. UOC | Building Tibidabo 3 | Sala Hannah Arendt | Avinguda Tibidabo, 47 | Barcelona
 
 
 Abstract:  
@@ -22,11 +31,11 @@ Recent studies have demonstrated that the construction of national or regional i
 
 
 Texts for discussion:  
-Cronin, Michael (2003). “Translation and minority languages in a global setting”. Translation and Globalization. New York: Routledge, 138-170.
+Cronin, Michael (2003). “Translation and minority languages in a global setting”. _Translation and Globalization_. New York: Routledge, 138-170.
 
-Gonne, Maud (2018). "From binarity to complexity: a Latourian perspective on cultural mediators: The case of Georges Eekhoud’s intra-national activities". In Diana Roig Sanz & Reine Meylaerts (eds.), Literary translation and Cultural Mediators in ‘Peripheral’ Cultures: Customs Officers or Smugglers?  New York: Palgrave MacMillan, 263-290.
+Gonne, Maud (2018). "From binarity to complexity: a Latourian perspective on cultural mediators: The case of Georges Eekhoud’s intra-national activities". In Diana Roig Sanz & Reine Meylaerts (eds.), _Literary translation and Cultural Mediators in ‘Peripheral’ Cultures: Customs Officers or Smugglers?_. New York: Palgrave MacMillan, 263-290.
 
-Marais, Kobus, and Reine Meylaerts (2019). “Introduction”. Complexity thinking in Translation Studies. Methodological considerations. New York and London: Routledge, 1-18.
+Marais, Kobus, and Reine Meylaerts (2019). “Introduction”. _Complexity thinking in Translation Studies. Methodological considerations_. New York and London: Routledge, 1-18.
 
 
 ## IV Global Literary Studies International Seminar: *The GLobal Novel*
