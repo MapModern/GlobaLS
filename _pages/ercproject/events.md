@@ -97,7 +97,8 @@ défis méthodologiques dans la construction d&#39;un corpus à grande échelle"
 ##### <s>University of Palermo. June 18-20, 2020</s> Cancelled due to COVID-19.
 Workshop: “Studying Film Societies. Methodologies, Sources, Prospects”.
 
-Participants: Prof. Dr. Michael Cowan, (University of St. Andrews) , Prof. Dr. Malte Hagener (Philipps-University Marburg), Dr. Ainamar Clariana Rodagut (PhD candidate, Open University of Catalonia, Barcelona), Dr. Irene Rozsa (Concordia University Montréal), Sanghita Sen (PhD candidate, University of St. Andrews)
+Participants: 
+Prof. Dr. Michael Cowan, (University of St. Andrews) , Prof. Dr. Malte Hagener (Philipps-University Marburg), Dr. Ainamar Clariana Rodagut (PhD candidate, Open University of Catalonia, Barcelona), Dr. Irene Rozsa (Concordia University Montréal), Sanghita Sen (PhD candidate, University of St. Andrews)
 
 ## Doing Women’s Film and Television History V: Forming Histories/Histories in Formation.
 ##### <s>Maynooth University, Maynooth, Co. Kildare, Ireland. May 20-22, 2020</s> Cancelled due to COVID-19.
