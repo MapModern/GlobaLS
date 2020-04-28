@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Stakeholders
+title: Meetings with Stakeholders
 permalink: /ercproject/events/meetings/
 classes: wide
 sidebar:
