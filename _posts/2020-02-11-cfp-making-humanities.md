@@ -3,7 +3,10 @@ title: "<strong>Call for papers for the 9th Making of the Humanities conference<
 permalink: /news/cfp-making-humanities/
 tags: [call, Neus Rotger]
 ---
-Panels and papers on any period or region are welcome. Special interest is given to work that transcends the history of specific humanities disciplines by comparing scholarly practices across disciplines and civilisations. **Neus Rotger** is part of the local organizing committee. **Final deadline** for the submission of abstracts and panel proposals: **7 May 2020**.
+Due to COVID-19, the 9th Making of the Humanities conference has been postponed until September 20-22, 2021
+{:.notice--warning}
+
+Panels and papers on any period or region are welcome. Special interest is given to work that transcends the history of specific humanities disciplines by comparing scholarly practices across disciplines and civilisations. **Neus Rotger** is part of the local organizing committee. **Final deadline** for the submission of abstracts and panel proposals: **1 May 2021**.
 
 ### Goal of the Making of the Humanities (MoH) Conferences
 
@@ -30,16 +33,16 @@ Matthew Rampley (Masaryk University): “Naturalistic Theories in the Humanities
 
 Abstracts of single papers (30 minutes including discussion) should contain the name of the speaker, full contact address (including email address), the title and a summary of the paper of maximally 250 words. For more information about submitting abstracts, see the [submission page](http://www.historyofhumanities.org/how-to-submit-your-papers-and-panel-proposals-to-the-making-of-humanities-vii/).
 
-Deadline for abstracts: **7 May 2020**
+Deadline for abstracts: **1 May 2021**
 
-Notification of acceptance: June 2020
+Notification of acceptance: June 2021
 ### Panel Submissions
 
 Panels last 1.5 to 2 hours and can consist of 3-4 papers and possibly a commentary on a coherent theme including discussion. Panel proposals should contain respectively the name of the chair, the names of the speakers and commentator, full contact addresses (including email addresses), the title of the panel, a short (150 words) description of the panel’s content and for each paper an abstract of maximally 250 words. For more information about submitting panels, see the [submission page](http://www.historyofhumanities.org/how-to-submit-your-papers-and-panel-proposals-to-the-making-of-humanities-vii/).
 
-Deadline for panel proposals: **7 May 2020**
+Deadline for panel proposals: **1 May 2021**
 
-Notification of acceptance: June 2020
+Notification of acceptance: June 2021
 ### Conference fee
 
 The exact conference fee will be determined in spring 2020 and will be ca. €100 for regular participants and ca. €80 for PhD students. The fee includes access to all sessions, access to the welcoming reception, simple lunches, and tea and/or coffee during the breaks.
