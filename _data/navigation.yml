@@ -94,7 +94,7 @@ ercproject: #navigation sidebar for the MapModern project
           children:
             - title: Conferences
               url: /ercproject/events/
-            - title: Reading Seminars
+            - title: Group Seminars
               url: /ercproject/events/seminars/
             - title: Meetings with Institutions
               url: /ercproject/events/meetings/
