@@ -4,8 +4,7 @@ permalink: /news/cfp-making-humanities/
 tags: [call, Neus Rotger]
 ---
 Due to COVID-19, the 9th Making of the Humanities conference has been postponed until September 20-22, 2021 
-
-{:.notice--warning}
+{: .notice--warning}
 
 Panels and papers on any period or region are welcome. Special interest is given to work that transcends the history of specific humanities disciplines by comparing scholarly practices across disciplines and civilisations. **Neus Rotger** is part of the local organizing committee. **Final deadline** for the submission of abstracts and panel proposals: **1 May 2021**.
 
