@@ -54,7 +54,7 @@ Middell, Matthias  & Katja Naumann. “Global history and the spatial turn: from
 
 
 ## Reading Seminar: *Literary Theory about Latin America*
-### [**Laura Folica**](https://globals.research.uoc.edu/team/researchers/laura-folica/)
+### [**Laura Fólica**](https://globals.research.uoc.edu/team/researchers/laura-folica/)
 ##### Wednesday, March 18 2020, 15:00-17:30. [Virtual Seminar]
 
 Texts for discussion: 
@@ -72,7 +72,7 @@ Schwarz, Roberto. “Las ideas fuera de lugar”, _MERIDIONAL Revista Chilena de
  
  
 ## Reading Seminar: *Oceans Studies*
-### [**Marta Puxan/Oliva** (UOC)](https://globals.research.uoc.edu/team/researchers/marta-puxan/)
+### [**Marta Puxan-Oliva** (UOC)](https://globals.research.uoc.edu/team/researchers/marta-puxan/)
 ##### Wednesday, March 4 2020, 12:00-14:00: [Sala Hannah Arendt]
 
 Texts for discussion: 
@@ -85,7 +85,7 @@ Hofmeyr, Isabel. “The Complicating Sea: The Indian Ocean as Method,” _Compar
 Steinberg, Philip E “Of Other Seas: Metaphors and Materialities in Maritime Regions” _Atlantic Studies_ 10, issue 2 (2013): 156-1969.
 
 
-##Reading Seminar: *Novel Theory* 
+## Reading Seminar: *Novel Theory* 
 ### [**Neus Rotger**](https://globals.research.uoc.edu/team/researchers/neus-rotger/)
 ##### Thursday, February 13 2020, 10:00-12:00. [Sala Mercè Rodoreda]
 
