@@ -54,7 +54,7 @@ Middell, Matthias  & Katja Naumann. “Global history and the spatial turn: from
 
 
 ## Reading Seminar: *Literary Theory about Latin America*
-### [**Laura Fólica**](https://globals.research.uoc.edu/team/researchers/laura-folica/)
+### [**Laura Fólica** (UOC)](https://globals.research.uoc.edu/team/researchers/laura-folica/)
 ##### Wednesday, March 18 2020, 15:00-17:30. [Virtual Seminar]
 
 Texts for discussion: 
@@ -86,7 +86,7 @@ Steinberg, Philip E “Of Other Seas: Metaphors and Materialities in Maritime Re
 
 
 ## Reading Seminar: *Novel Theory* 
-### [**Neus Rotger**](https://globals.research.uoc.edu/team/researchers/neus-rotger/)
+### [**Neus Rotger** (UOC)](https://globals.research.uoc.edu/team/researchers/neus-rotger/)
 ##### Thursday, February 13 2020, 10:00-12:00. [Sala Mercè Rodoreda]
 
 Texts for discussion: 
