@@ -37,6 +37,7 @@ Diana Roig Sanz:
 Laura Fólica:
    name        : "Laura Fólica"
    bio-short   : "Postdoctoral researcher (UOC) - Assistant Professor at Universitat Pompeu Fabra (UPF)."
+<<<<<<< HEAD
    bio         : "Laura Fólica is a postdoctoral researcher in the Department of Arts and Humanities at the Universitat Oberta de Catalunya (UOC). She is a member of the Global Literary Studies Research Group (GlobaLS), and of the ERC project “Social Networks of the Past. Mapping Hispanic and Lusophone Literary Modernity1898-1959”.
 
 
@@ -45,6 +46,10 @@ Laura Fólica:
 
                She has recently co-edited with R. Lladò a special issue (“Fictional turn in Translation Studies”) of _Doletiana. Translation Journal_ (Universitat Autònoma de Barcelona, 2019), and the volume _Literary Translation in Periodicals. Methodological Challenges for a Transnational Approach_, with D. Roig-Sanz and S. Caristia (forthcoming, 2020). She has published more than thirty articles and book chapters related to literary translation from an historical and sociological perspective. She also translated books for Ibero-american publishing houses focused on Humanities and Social Sciences."
 #   biblio:
+=======
+   bio         : "Laura Fólica is a postdoctoral researcher in the Department of Arts and Humanities at the Universitat Oberta de Catalunya (UOC). She is a member of the Global Literary Studies Research Group (GlobaLS), and of the ERC project “Social Networks of the Past. Mapping Hispanic and Lusophone Literary Modernity1898-1959”. She specializes in Sociology of Translation, Latin-American Studies, Periodical Publications, and Digital Humanities. She is currently working on literary translation in Ibero-American periodicals using digital-tools on a large-scale and transnational approach. She has recently co-edited with R. Lladò a special issue (“Fictional turn in Translation Studies”) of Doletiana. Translation Journal (Universitat Autònoma de Barcelona, 2019), and the volume Literary Translation in Periodicals. Methodological Challenges for a Transnational Approach, with D. Roig-Sanz and S. Caristia (forthcoming, 2020). She has published more than thirty articles and book chapters related to literary translation from an historical and sociological perspective. She also translated books for Ibero-american publishing houses focused on Humanities and Social Sciences."
+   #   biblio:
+>>>>>>> 40e8b65d1ab388ba4972330b88b9e36428787c80
 #    - ref:
    avatar      : "/assets/images/laura-folica.png"
    url         : "/team/researchers/laura-folica/"
