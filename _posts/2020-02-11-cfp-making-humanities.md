@@ -2,6 +2,7 @@
 title: "<strong>Call for papers for the 9th Making of the Humanities conference</strong>, UOC-UPF. Barcelona, 21-23 September 2020"
 permalink: /news/cfp-making-humanities/
 tags: [call, Neus Rotger]
+slide: "no"
 ---
 
 Due to COVID-19, the 9th Making of the Humanities conference has been postponed until September 20-22, 2021.
