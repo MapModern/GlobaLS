@@ -4,7 +4,8 @@ permalink: /news/KULeuven-conference/
 tags: [call, Maud Gonne]
 slide: "no"
 ---
-**Organizers**
+
+**Organizers:**
   
 Kobus Marais (University of the Free State)
 
@@ -12,15 +13,15 @@ Reine Meylaerts (KU Leuven)
 
 Maud Gonne (UNamur/ UCLouvain)
 
-**Confirmed keynote speakers** 
+**Confirmed keynote speakers:** 
 
-Biosemiotics – Terrence Deacon (University of California, Berkeley) 
+Biosemiotics: Terrence Deacon (University of California, Berkeley) 
 
-Semiotics – Frederik Stjernfelt (Aalborg University, Copenhagen) 
+Semiotics: Frederik Stjernfelt (Aalborg University, Copenhagen) 
 
-Translation studies – Michael Cronin (Trinity College Dublin) 
+Translation studies: Michael Cronin (Trinity College Dublin) 
 
-**Deadlines**
+**Deadlines:**
 
 Submission of abstracts: 1 December 2020 
 
