@@ -31,6 +31,7 @@ Registration opens: 1 March 2021
 Registration closes: 15 July 2021 
 
 **Please e-mail enquiries and abstracts of around 300 words to one of the following addresses:**
+
 jmarais@ufs.ac.za 
 
 maud.gonne@unamur.be 
