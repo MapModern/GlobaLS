@@ -13,23 +13,13 @@ photos:
       size: small # small, medium (default), or large
       caption: # Any text
 ---
-## XI Doctoral Seminar in Literary Studies [Virtual Seminar]
-##### 25-29 May 2020
-*The circulation of Georgian literature: between the local and the global (1995-2020)*  
-Ana Kvirikashvili
-
-## XII Doctoral Seminar in Literary Studies [Virtual Seminar]
-##### 8-12 June 2020
-*The Library of Disaster: The Market of Memory Literature and Its Agents in English, French and Spanish from 1970 to the Present Seen through Prizes*  
-Pau Bosch
-
 ## Panel  “Between the nation and the world: The role of translation in the circulation of small/minor/peripheral/less translated literatures”
 
 ### [Sixth European Congress on World and Global History: Minorities, Cultures of Integration, and Patterns of Exclusion](https://research.uni-leipzig.de/eniugh/congress/)
 
 ##### <s>25-28 June 2020</s>. Turku, Finland
 
-Due to the Covid-19 crisis, the congress has been postponed for **17-20 June 2021**. The panel will take place in a virtual setting on **29 June 2020**.
+Due to the Covid-19 crisis, the congress has been postponed for **17-20 June 2021**. The panel will take place in a virtual setting on **29 and 30 June 2020**.
 {: .notice--warning}
 
 Participants: Laura Fólica (Open University of Catalonia), Elisabet Carbó (Open University of Catalonia), Maud Gonne (University of Namur), Ana Kvirikashvili (Open University of Catalonia), Ondrej Vimr (Czech Academy of Sciences, Institute of Czech Literature), Golda van der Meer (University of Barcelona)
